@@ -11,4 +11,4 @@ BTW, you can get in touch with me by sending mail to [juzhiyuan@apache.org](mail
 -------------------------------------------------------
 My favorite
 -------------------------------------------------------
-- [Music](https://i.y.qq.com/n2/m/share/details/taoge.html?hosteuin=&id=1477849843&appversion=100201)
+- [Music](https://y.qq.com/n/yqq/playlist/1477849843.html)
