@@ -32,7 +32,7 @@ comment = "utterances"
 # Timeformat, no matter what format to use, make it the second day of Jan. 2006
 timeformat = "Jan 02, 2006"
 # switch for turning on/off lights.
-switch = ["🌚", "🌝"]
+switch = ["Dark", "Light"]
 # default theme. e.g. light, dark, system
 defaultTheme = "system"
 # If set true, date of posts will be shown in the homepage.
