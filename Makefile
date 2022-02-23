@@ -1,5 +1,5 @@
-source=.
 themeDir=./themes/
+source=.
 
 .PHONY: dev, build, clean
 
