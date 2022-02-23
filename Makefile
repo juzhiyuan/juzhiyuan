@@ -8,6 +8,7 @@ dev:
 	hugo server -D -s $(source) --themesDir $(themeDir) --disableFastRender
 
 build:
+	mv ./static/favicon.ico ./themes/minima/static/favicon.ico
 	hugo -D --gc --minify -s $(source) --themesDir $(themeDir)
 
 clean:
