@@ -7,7 +7,7 @@ title = "琚致远"
 
 # paginate decides the number of the newest posts
 # that'll be shown on the home page.
-paginate = 6
+paginate = 13
 
 # theme is the name of the hugo theme you're gonna use,
 # `hugo-theme-minima` is put here only for debuging,
@@ -114,3 +114,6 @@ tag = "tags"
 [markup.highlight]
 lineNos = true
 noClasses = false
+
+[markup.goldmark.renderer]
+unsafe=true
