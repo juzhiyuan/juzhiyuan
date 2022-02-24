@@ -114,3 +114,6 @@ tag = "tags"
 [markup.highlight]
 lineNos = true
 noClasses = false
+
+[markup.goldmark.renderer]
+unsafe=true
