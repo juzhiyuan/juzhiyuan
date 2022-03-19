@@ -4,7 +4,7 @@ languageCode = "zh"
 
 baseURL = "https://wineso.me"
 copyright = "© 琚致远 / Zhiyuan Ju 2022"
-googleAnalytics = "UA-199295507-1"
+googleAnalytics = "G-6M5NRV26V3"
 title = "琚致远 / Zhiyuan Ju"
 
 # paginate decides the number of the newest posts
