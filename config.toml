@@ -1,8 +1,10 @@
+# defaultContentLanguage 必须放在第一行才可生效
+defaultContentLanguage = "zh"
+languageCode = "zh"
 
 baseURL = "https://wineso.me"
-copyright = "© 琚致远 2022"
+copyright = "© 琚致远 / Zhiyuan Ju 2022"
 googleAnalytics = "UA-199295507-1"
-languageCode = "zh-cn"
 title = "琚致远"
 
 # paginate decides the number of the newest posts
@@ -19,6 +21,16 @@ theme = "minima"
 description = "Head of Global, API7.ai. | Apache APISIX PMC | Apache Member | freeCodeCamp"
 name = "琚致远"
 slogon = "用魔法打败魔法 🪄"
+
+[languages]
+  [languages.zh]
+    contentDir = 'content/posts'
+    languageName = "简体中文"
+    weight = 1
+  [languages.en]
+    contentDir = 'content/posts'
+    languageName = "English"
+    weight = 2
 
 [params]
 # iam is the beginning words of your self-introduction.
