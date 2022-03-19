@@ -20,15 +20,13 @@ theme = "minima"
 [author]
 description = "Head of Global, API7.ai. | Apache APISIX PMC | Member of TheASF | freeCodeCamp"
 name = "琚致远"
-slogon = "用魔法打败魔法 🪄"
+slogon = "用魔法打败魔法 🪄 · ❤️ 君"
 
 [languages]
   [languages.zh]
-    contentDir = 'content/posts'
     languageName = "简体中文"
     weight = 1
   [languages.en]
-    contentDir = 'content/posts'
     languageName = "English"
     weight = 2
 
@@ -103,13 +101,13 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "English Blog"
-url = "/en"
+name = "About"
+url = "/about"
 weight = 2
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "English"
+url = "/en"
 weight = 3
 
 # You can classify your posts by setting taxanomies in the front matter
