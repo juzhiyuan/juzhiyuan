@@ -5,7 +5,7 @@ languageCode = "zh"
 baseURL = "https://wineso.me"
 copyright = "© 琚致远 / Zhiyuan Ju 2022"
 googleAnalytics = "UA-199295507-1"
-title = "琚致远"
+title = "琚致远 / Zhiyuan Ju"
 
 # paginate decides the number of the newest posts
 # that'll be shown on the home page.
@@ -18,7 +18,7 @@ theme = "minima"
 
 # Author has some of your information to be shown on the home page.
 [author]
-description = "Head of Global, API7.ai. | Apache APISIX PMC | Apache Member | freeCodeCamp"
+description = "Head of Global, API7.ai. | Apache APISIX PMC | Member of TheASF | freeCodeCamp"
 name = "琚致远"
 slogon = "用魔法打败魔法 🪄"
 
@@ -101,10 +101,12 @@ url = "/index.xml"
 name = "Home"
 url = "/"
 weight = 1
+
 [[menu.main]]
-name = "Categories"
-url = "/categories"
+name = "English Blog"
+url = "/en"
 weight = 2
+
 [[menu.main]]
 name = "About"
 url = "/about"
