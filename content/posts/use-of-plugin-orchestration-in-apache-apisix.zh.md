@@ -7,7 +7,7 @@ title: "插件编排在 Apache APISIX 中的应用与实践"
 
 > 通过阅读本文，您可以了解 Apache APISIX 与基本使用场景，以及在低代码潮流下，Apache APISIX 是如何集成“拖拽”的插件编排能力的。本文作者琚致远，Apache APISIX PMC，在支流科技负责企业产品与大前端技术。
 
-原文：[https://apisix.apache.org/blog/2021/07/27/use-of-plugin-orchestration-in-Apache-APISIX/](https://apisix.apache.org/blog/2021/07/27/use-of-plugin-orchestration-in-Apache-APISIX/)
+原文：[https://apisix.apache.org/blog/2021/07/27/use-of-plugin-orchestration-in-apache-apisix/](https://apisix.apache.org/blog/2021/07/27/use-of-plugin-orchestration-in-apache-apisix/)
 
 本文作者琚致远，为 Apache APISIX PMC，在支流科技负责企业产品与大前端技术。通过阅读本文，您可以了解 Apache APISIX 与基本使用场景，以及在低代码潮流下，Apache APISIX 是如何集成“拖拽”的插件编排能力的。
 

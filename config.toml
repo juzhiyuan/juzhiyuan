@@ -1,9 +1,11 @@
+# defaultContentLanguage 必须放在第一行才可生效
+defaultContentLanguage = "zh"
+languageCode = "zh"
 
 baseURL = "https://wineso.me"
-copyright = "© 琚致远 2022"
-googleAnalytics = "UA-199295507-1"
-languageCode = "zh-cn"
-title = "琚致远"
+copyright = "© 琚致远 / Zhiyuan Ju 2022"
+googleAnalytics = "G-6M5NRV26V3"
+title = "琚致远 / Zhiyuan Ju"
 
 # paginate decides the number of the newest posts
 # that'll be shown on the home page.
@@ -16,9 +18,19 @@ theme = "minima"
 
 # Author has some of your information to be shown on the home page.
 [author]
-description = "Head of Global, API7.ai. | Apache APISIX PMC | Apache Member | freeCodeCamp"
+description = "Head of Global, API7.ai. | Apache APISIX PMC | Member of TheASF | freeCodeCamp"
 name = "琚致远"
 slogon = "用魔法打败魔法 🪄"
+
+[languages]
+  [languages.zh]
+    contentDir = 'content/posts'
+    languageName = "简体中文"
+    weight = 1
+  [languages.en]
+    contentDir = 'content/posts'
+    languageName = "English"
+    weight = 2
 
 [params]
 # iam is the beginning words of your self-introduction.
@@ -89,10 +101,12 @@ url = "/index.xml"
 name = "Home"
 url = "/"
 weight = 1
+
 [[menu.main]]
-name = "Categories"
-url = "/categories"
+name = "English Blog"
+url = "/en"
 weight = 2
+
 [[menu.main]]
 name = "About"
 url = "/about"
