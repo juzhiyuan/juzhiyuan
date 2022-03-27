@@ -1,0 +1,16 @@
+{{ define "main" }}
+<main>
+  <h2>{{ .Title }}</h2>
+  <nav class="flex flex-col">
+    {{ $data := .Data }}
+    {{ range $key, $value := .Data.Terms.ByCount }}
+    <div class="mb-5 flex justify-between">
+      <a class="self-start" href="/{{ $data.Plural }}/{{ $value.Name }}">
+        {{ $value.Name }}
+      </a>
+      <span class="">{{ $value.Count }}</span>
+    </div>
+    {{ end }}
+  </nav>
+</main>
+{{ end }}
