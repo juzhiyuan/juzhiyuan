@@ -2,7 +2,7 @@
 categories: ["Story"]
 date: 2022-03-24T08:00:00Z
 draft: false
-url: "apache-member"
+url: "/blog/apache-member"
 title: "琚致远：95 后 Apache Member 的成长之路"
 ---
 
