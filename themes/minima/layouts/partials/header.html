@@ -3,7 +3,9 @@
     {{ if .Site.Params.brand }}
     <div class="mr-3 text-3xl"><a href="/">{{ .Site.Params.brand }}</a></div>
     {{ end }}
-    <div id="theme-switcher" class="text-4xl cursor-pointer">{{ index .Site.Params.switch 1 }}</div>
+    <div id="theme-switcher">
+      <img class="avatar" src="https://avatars.githubusercontent.com/u/2106987?v=4" alt="">
+    </div>
   </div>
   <nav class="flex items-center
     whitespace-nowrap overflow-x-auto overflow-y-hidden">
