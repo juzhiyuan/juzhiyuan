@@ -77,7 +77,7 @@ local schema = {
 
 APISIX 项目被捐献给 Apache 软件基金会、2020 年从基金会毕业、拥有众多国内大 B 用户地生产使用案例等，每一个事件都吸引了众多行业用户关注、为社区带来了更多用户与贡献者、为项目带来了更多生产用户的内部反馈与实践。
 
-![image](https://user-images.githubusercontent.com/2106987/162698360-e98a7e98-024d-4471-9bc2-17cd9747666a.png)
+![image](https://user-images.githubusercontent.com/2106987/162701670-07ef3d7b-ee98-4521-a8a4-9619b27f2078.png)
 
 社区是由人构建的，Apache APISIX 社区是由来自全球各地、有着不同语言与文化的**贡献者、用户以及社区**共同参与维护的。在过去 3 年时间里，我们一直在做这样的事情：
 
