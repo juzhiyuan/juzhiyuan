@@ -11,7 +11,7 @@ title: "我与 Apache 软件基金会的故事"
 
 Apache 软件基金会成立于 1999 年（我出生于 1997 年），作为全球最大的开源软件基金会，我从未想过会现在与它有更深入地联系。
 
-### 项目
+## 项目
 
 2019 年大学毕业后不久，APISIX 项目发起人联系到我，希望我能为 APISIX 贡献一个 Dashboard 项目。首先，什么是 APISIX？那时我对 APISIX 项目的理解仅仅是一个开源的 API 网关，那什么是 API 网关呢？我没有使用过这类产品，更谈不上如何做一个与 APISIX 配套的 Dashboard 了。
 
@@ -69,9 +69,13 @@ local schema = {
 
 ![image](https://user-images.githubusercontent.com/2106987/162700882-28d78189-a52d-40c5-92d0-4c26ab2eae68.png)
 
-### 社区
+## 社区
 
 中学时我对 Web 渗透技术非常感兴趣，会在各种技术论坛中学习、交流，那时我便经常听到“社区”这个词。2016 年，我参与到了 freeCodeCamp 中文社区中，并与 Miya 等人参与到中国多个城市站建设当中，以成都、上海、杭州之活跃，并结交了众多志同道合的朋友们。
+
+![image](https://user-images.githubusercontent.com/2106987/162705105-03336b85-6fda-4a1f-a99a-645dc276e344.png)
+
+![WechatIMG783](https://user-images.githubusercontent.com/2106987/162713825-98f0e5e5-d125-43b6-adfb-7f042b81fce3.jpeg)
 
 2019 年参与到开源项目 APISIX 后，我在不断为项目贡献代码之外，也在关注、回复 GitHub、邮件列表的用户问题，并与开源用户进行讨论。随着用户地逐渐增多、讨论越来越频繁，忽然我觉得有“社区”的味道了。
 
@@ -96,16 +100,80 @@ APISIX 项目被捐献给 Apache 软件基金会、2020 年从基金会毕业、
 
 ![image](https://user-images.githubusercontent.com/2106987/162701541-4f1fc7ff-8391-44b1-a4a1-fc52858c4758.png)
 
-### 用户
+## 用户
 
 Apache APISIX 属于基础软件设施的中间件分类，其用户指全球使用 API 的企业。
 
 2019 年末，贝壳找房是已知的首家超大流量生产用户，那时起便每天处理过亿生产流量，Apache APISIX 表现的非常稳定。
 
-想象一下：每乘地铁、出差乘飞机、购买咖啡/奶茶等，数字服务的背后都有 Apache APISIX 的存在，这种感觉是多么的棒！
+想象一下：每乘地铁、出差乘飞机、购买咖啡/奶茶、看哔哩哔哩、使用 WPS 时，这些数字服务的背后都有 Apache APISIX 的存在，这种感觉是多么的棒！
 
 我们还有许多生产用户，请访问[https://apisix.apache.org/showcase](https://apisix.apache.org/showcase) 了解更多。
 
-### 认可
+![image](https://user-images.githubusercontent.com/2106987/162713112-008cb59b-62d4-46e2-ac85-f86660ddd63c.png)
+
+## 认可
 
 2019 年刚参与 Apache APISIX 时，只是因为
+
+![image](https://user-images.githubusercontent.com/2106987/162713644-d02c7703-e9fb-4da7-a2ef-e6b4f6fb3355.png)
+
+## 时间线
+
+![image](https://user-images.githubusercontent.com/2106987/162702077-452b15eb-e19c-439a-9189-5c8314e8abdb.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162705307-9094bd79-0c83-443d-a92d-5f326ab714f5.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162712207-d56bf462-f95b-45ef-a736-1332d857d97a.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162712248-b57bb857-1421-442a-8e46-c68dceb1b262.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162712296-1dac65bd-5357-4c0d-a0ea-4586141dc52c.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162712345-8be5f13a-2275-4e58-9966-13e6df70c71c.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162712402-26653cd0-d7f1-4fa5-9a18-8ad174f3d785.png)
+
+![Summer 2020](https://user-images.githubusercontent.com/2106987/162712487-794f706d-bbb0-4cf2-bafc-6a43b025df56.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162712551-4cb7c299-cf9b-4485-9cef-81aae66ac885.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162712598-493cac88-6c26-44be-9a73-69631c79a220.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162712654-eadcda90-193a-4f50-9243-05fd3b2222c4.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162712693-74313e1c-690e-4ebb-8949-3a5f628f4afb.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162712745-680c0e7c-06e9-440f-8c30-a359995be510.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162712781-d6d2454d-5601-40c9-9833-779755693cef.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162712845-2d2350eb-1e48-46e3-ba7e-58553bd53ee1.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162712981-da79b4ae-9dd7-43df-9263-a30f0117634e.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162713018-e792f9c7-b92d-49a5-9d4b-9a143b5f43d5.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162713057-c72c011d-ac21-4db9-9781-595ead428d59.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162713171-317e06c1-3b5a-4a79-86e8-05fcf16dee5b.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162713233-94a26b18-92ad-47f8-9364-074e9b8b8c2c.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162713286-9edc4a7a-624b-4410-960a-0551c4cb99ef.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162713319-240822be-016d-4828-a900-ae86be3d407b.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162713370-934362dc-a13c-42de-8811-de50383ee386.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162713409-dd1f19ee-080d-48c0-9f19-c848f25b3b46.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162713460-d92304ab-132f-4fae-9b9a-31389740152c.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162713506-ec81b424-0ba0-4d1b-8c35-2a983669acff.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162713549-b3fb5936-9f75-4e23-ae77-07d3bdb0c3f8.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162713597-2a7c1247-6e11-45cf-a721-e244ea3831e3.png)
+
+![image](https://user-images.githubusercontent.com/2106987/162713775-13dccd83-f0d9-41cd-af82-937aff355f10.png)
