@@ -17,7 +17,7 @@ Apache 软件基金会成立于 1999 年（我出生于 1997 年），作为全�
 
 在大学期间自己接了许多项目（来自学校、朋友介绍、政府部门），尽管我对“如何构建 API 网关控制台”没有思路，但我清楚一个 Web 项目包含了“需求确认、产品设计、代码开发、功能测试、服务上线”这几项基本流程。
 
-![image](https://user-images.githubusercontent.com/2106987/162698062-689b8ec0-440f-4a53-ba04-230aecc1055a.png)
+![image](https://user-images.githubusercontent.com/2106987/162700735-18eb5687-98a5-4aa9-837f-5d96cdbe6383.png)
 
 在多次与 温铭、院生 沟通产品需求后，我为 APISIX 项目制作了 APISIX Dashboard V1：它没有精致的 UI（如下图所示），但能够满足对 APISIX 核心概念地操作，此时自己对 API 网关以及 APISIX 相关概念更加清晰了。
 
@@ -67,7 +67,7 @@ local schema = {
 
 从下图可见，自 2020 年中到年末，Dashboard 贡献者数量在明显地上升。来自中国、印度的贡献者们，从一些国际化内容修改到大块模块地开发，为 Dashboard 项目添砖加瓦。其中，有几位贡献者的故事令人瞩目，我会在另一篇文章进行记述。
 
-![image](https://user-images.githubusercontent.com/2106987/162698298-8b39cd7b-edfd-40f2-bf01-81d46f77ed10.png)
+![image](https://user-images.githubusercontent.com/2106987/162700882-28d78189-a52d-40c5-92d0-4c26ab2eae68.png)
 
 ### 社区
 
@@ -92,9 +92,9 @@ APISIX 项目被捐献给 Apache 软件基金会、2020 年从基金会毕业、
 
 成为 Apache APISIX 贡献者，我们会尝试联系大家并邮寄一份周边以表心意。每当收到来自不同国家的贡献者动态，作为社区建设的一份子，因 TA 们付出的卓越贡献而激动不已、也会为自己感到骄傲与自豪！
 
-![image](https://user-images.githubusercontent.com/2106987/162698478-db4a2a34-bea1-4512-a9bd-2936c20d4cdc.png)
+![image](https://user-images.githubusercontent.com/2106987/162701345-128c37f6-cf86-418d-b928-7d3381e97359.png)
 
-![image](https://user-images.githubusercontent.com/2106987/162698531-ede374a1-9e7b-4868-93b7-42fac96d0759.png)
+![image](https://user-images.githubusercontent.com/2106987/162701541-4f1fc7ff-8391-44b1-a4a1-fc52858c4758.png)
 
 ### 用户
 
@@ -105,3 +105,7 @@ Apache APISIX 属于基础软件设施的中间件分类，其用户指全球使
 想象一下：每乘地铁、出差乘飞机、购买咖啡/奶茶等，数字服务的背后都有 Apache APISIX 的存在，这种感觉是多么的棒！
 
 我们还有许多生产用户，请访问[https://apisix.apache.org/showcase](https://apisix.apache.org/showcase) 了解更多。
+
+### 认可
+
+2019 年刚参与 Apache APISIX 时，只是因为
