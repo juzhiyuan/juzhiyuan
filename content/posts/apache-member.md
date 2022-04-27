@@ -176,6 +176,6 @@ PMC 是项目管理委员会，带有管理属性，需要为项目和社区的�
 
 ## 写到最后
 
-致远有长期写作的习惯，平常会在博客里分享他最近的一些思考和感悟。在活泼写实、内容丰富的随笔中，我们可以看到一位朝气蓬勃的年轻人在开源、技术、工作、生活中的成长轨迹。如果大家想了解更多关于致远的故事，欢迎关注他的博客 [https://wineso.me/](https://wineso.me/) 和 GitHub 主页 [https://github.com/juzhiyuan](https://github.com/juzhiyuan)。
+致远有长期写作的习惯，平常会在博客里分享他最近的一些思考和感悟。在活泼写实、内容丰富的随笔中，我们可以看到一位朝气蓬勃的年轻人在开源、技术、工作、生活中的成长轨迹。如果大家想了解更多关于致远的故事，欢迎关注他的博客 [https://juzhiyuan.me/](https://juzhiyuan.me/) 和 GitHub 主页 [https://github.com/juzhiyuan](https://github.com/juzhiyuan)。
 
 期待致远后续更精彩的表现，让我们一起关注这位年轻人在开源、在技术上不懈的探索和努力。

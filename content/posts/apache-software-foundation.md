@@ -120,7 +120,7 @@ Apache APISIX 属于基础软件设施的中间件分类，其用户指全球使
 
 ![image](https://user-images.githubusercontent.com/2106987/162702077-452b15eb-e19c-439a-9189-5c8314e8abdb.png)
 
-2022 年 3 月某一天早上，自己收到了 Apache Member 邀请邮件，这是多么惊喜的事情呀！意味着自己除了关注 Apache APISIX 社区之外，也有了更多的责任与义务，与各位共同维护、发展 Apache 软件基金会。为此，社区专门采访了我，请阅读[琚致远：95 后 Apache Member 的成长之路](https://wineso.me/blog/apache-member/)。
+2022 年 3 月某一天早上，自己收到了 Apache Member 邀请邮件，这是多么惊喜的事情呀！意味着自己除了关注 Apache APISIX 社区之外，也有了更多的责任与义务，与各位共同维护、发展 Apache 软件基金会。为此，社区专门采访了我，请阅读[琚致远：95 后 Apache Member 的成长之路](https://juzhiyuan.me/blog/apache-member/)。
 
 ![image](https://user-images.githubusercontent.com/2106987/162713644-d02c7703-e9fb-4da7-a2ef-e6b4f6fb3355.png)
 
