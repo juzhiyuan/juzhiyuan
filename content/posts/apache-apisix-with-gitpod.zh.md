@@ -1,5 +1,5 @@
 ---
-categories: ["Story"]
+categories: ["Guide"]
 date: 2022-05-19T08:00:00Z
 draft: false
 title: "使用 Gitpod 搭建 Apache APISIX 开发环境"
