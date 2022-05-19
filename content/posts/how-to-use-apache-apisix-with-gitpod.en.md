@@ -1,9 +1,7 @@
 ---
-categories: ["Guide"]
-date: 2022-05-19T08:00:00Z
+title: How to use Gitpod to develop Apache APISIX?
+date: 2022-05-19T00:00:00+08:00
 draft: false
-url: "how-to-use-apache-apisix-with-gitpod"
-title: "How to use Gitpod to develop Apache APISIX?"
 ---
 
 ## Background

@@ -1,9 +1,7 @@
 ---
-categories: ["Guide"]
-date: 2022-05-19T08:00:00Z
+title: 如何使用 Gitpod 搭建 Apache APISIX 开发环境？
+date: 2022-05-19T00:00:00+08:00
 draft: false
-url: "how-to-use-apache-apisix-with-gitpod"
-title: "使用 Gitpod 搭建 Apache APISIX 开发环境"
 ---
 
 ## 背景
