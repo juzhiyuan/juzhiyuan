@@ -27,16 +27,22 @@ paginate = 6
     hasChildren = true
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 3
-
-  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
     weight = 4
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 5
 
       # Footer Menu
       [[menu.footer]]
@@ -52,16 +58,22 @@ paginate = 6
       weight = 2
 
       [[menu.footer]]
-      identifier = "about"
-      name = "About"
-      url = "/about/"
-      weight = 3
-
-      [[menu.footer]]
       identifier = "contact"
       name = "Contact"
       url = "/contact/"
+      weight = 3
+
+      [[menu.footer]]
+      identifier = "resume"
+      name = "Resume"
+      url = "/resume/"
       weight = 4
+
+      [[menu.footer]]
+      identifier = "about"
+      name = "About"
+      url = "/about/"
+      weight = 5
 
 
   #-------------------------------
