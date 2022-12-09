@@ -1,0 +1,241 @@
+#-------------------------------
+# General Site Settings
+googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+paginate = 6
+
+
+[params]
+  logo = "" # You can add own logo. For example "/images/logo.png".
+  description = "Member of TheASF, Apache APISIX PMC Member, freeCodeCamp"
+  color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Main Menu
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+    hasChildren = true
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 5
+
+      # Footer Menu
+      [[menu.footer]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+
+      [[menu.footer]]
+      identifier = "blog"
+      name = "Blog"
+      url = "/posts/"
+      weight = 2
+
+      [[menu.footer]]
+      identifier = "contact"
+      name = "Contact"
+      url = "/contact/"
+      weight = 3
+
+      [[menu.footer]]
+      identifier = "resume"
+      name = "Resume"
+      url = "/resume/"
+      weight = 4
+
+      [[menu.footer]]
+      identifier = "public-sharing"
+      name = "Public Sharing"
+      url = "/public-sharing/"
+      weight = 5
+
+      [[menu.footer]]
+      identifier = "about"
+      name = "About"
+      url = "/about/"
+      weight = 6
+
+
+  #-------------------------------
+  # Author Settings
+  [params.author]
+    author__name = "Zhiyuan Ju"
+    author__bio = "Member of TheASF, Apache APISIX PMC Member, freeCodeCamp"
+    author__avatar = "https://static.juzhiyuan.me/avatar.jpeg"
+
+  # Social Links
+  [[params.social]]
+    icon = "ion-logo-twitter"
+    name = "Twitter"
+    link = "https://twitter.com/jjzhiyuan"
+
+  [[params.social]]
+    icon = "ion-logo-linkedin"
+    name = "Linkedin"
+    link = "https://www.linkedin.com/in/jjzhiyuan/"
+
+  [[params.social]]
+    icon = "ion-logo-github"
+    name = "GitHub"
+    link = "https://github.com/juzhiyuan"
+
+  # Example of adding a new link to the footer:
+  # [[params.social]]
+  #   icon = "ion-logo-youtube"
+  #   name = "Youtube"
+  #   link = "https://youtube.com"
+
+  # Other icons can be found at https://ionicons.com/v4/
+
+
+  #-------------------------------
+  # Hero Settings
+  [params.hero]
+    enable = true
+    hero__title = "I'm Zhiyuan Ju, Member of TheASF."
+    hero__description = "I love open source community 💗 I started maintaining Apache APISIX Community in 2019 and am a member of The Apache Software Foundation. I am also one of the core members of freeCodeCamp China."
+    hero__image = "https://static.juzhiyuan.me/Zhiyuan_Ju_Avatar.jpeg"
+
+
+  #-------------------------------
+  # Newsletter Settings
+  [params.mailchimp]
+    enable = false
+    mailchimp__identifier = "" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+    mailchimp__input__text = "Your email address..."
+    mailchimp__button__text = "Get updates" # Add your button text
+
+
+  #-------------------------------
+  # Projects Settings
+  [params.projects]
+    enable = false
+    projects__title= "Latest works"
+    projects__description= "I shows only the best websites and portfolios built completely with passion, simplicity & creativity!"
+
+
+  #-------------------------------
+  # Testimonials Section
+  [params.testimonials]
+    enable = false
+    testimonial__title = "What clients say"
+    testimonial__description = ""
+
+  [[params.testimonial_item]]
+    name = "Aspen Carder"
+    image = "https://via.placeholder.com/200x200"
+    designation = "Lettering Artist"
+    link = "https://twitter.com/"
+    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  [[params.testimonial_item]]
+    name = "Lydia Siphron"
+    image = "https://via.placeholder.com/200x200"
+    designation = "Designer"
+    link = "https://facebook.com/"
+    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  [[params.testimonial_item]]
+    name = "Craig Vaccaro"
+    image = "https://via.placeholder.com/200x200"
+    designation = "Web developer"
+    link = "https://twitter.com/"
+    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  [[params.testimonial_item]]
+    name = "Anika Calzoni"
+    image = "https://via.placeholder.com/200x200"
+    designation = "Lettering Artist"
+    link = "https://facebook.com/"
+    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  [[params.testimonial_item]]
+    name = "Marcus Botosh"
+    image = "https://via.placeholder.com/200x200"
+    designation = "Full Stack Designer"
+    link = "https://twitter.com/"
+    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+
+  #-------------------------------
+  # Blog Section
+  [params.blog]
+    enable = true
+    blog__title = "Recent Posts"
+    blog__description = ""
+
+
+  #-------------------------------
+  # Gallery Footer Settings
+  [params.gallery]
+    enable = true
+
+  [[params.gallery_image]]
+    image_alt = "Dali"
+    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+
+  [[params.gallery_image]]
+    image_alt = "Wedding"
+    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1687.JPG"
+
+  [[params.gallery_image]]
+    image_alt = "Chengdu"
+    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1696.JPG"
+
+  [[params.gallery_image]]
+    image_alt = "Guangzhou"
+    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1694.JPG"
+
+
+  #-------------------------------
+  # Contact Settings
+  [params.contact]
+    contact__email = "moqbgpda" # Add your form_id
+
+    # NOTE
+    # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+  #-------------------------------
+  # Comment Section (Disqus)
+  [params.disqus]
+    enable = true
+    disqusShortname = "zhiyuan-jus-blog" # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false

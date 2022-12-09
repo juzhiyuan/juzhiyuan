@@ -1,0 +1,72 @@
+<!-- begin footer -->
+<footer class="footer">
+
+  {{ if .Site.Params.gallery.enable }}
+  <div class="footer__gallery">
+    <div class="gallery">
+      {{ range .Site.Params.gallery_image }}
+      <div class="gallery__image">
+        <img src="{{ .image_url }}" alt="{{ .image_alt }}" loading="lazy">
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+
+        <div class="footer__inner">
+          <div class="container">
+            <div class="row">
+      
+              <div class="col col-8 col-d-12">
+                <div class="footer__author">
+                  <div class="footer__author-avatar">
+                    <img class="lazy" data-src="{{.Site.Params.author.author__avatar}}" alt="{{.Site.Params.author.author__name}}">
+                  </div>
+                  <div class="footer__author-info">
+                    <h3 class="footer__author-name">{{.Site.Params.author.author__name}}</h3>
+                    <p class="footer__author-bio">{{.Site.Params.author.author__bio}}</p>
+                    {{ partial "social-links.html" . }}
+                  </div>
+                </div>
+              </div>
+      
+              <div class="col col-4 col-d-12">
+                <div class="footer__nav">
+                  <h3 class="footer__nav-title">Navigation</h3>
+                  <ul class="footer__nav-list list-reset">
+                    {{ range .Site.Menus.footer }}
+                    <li class="footer__nav-item">
+                      <a href="{{ .URL }}" class="footer__nav-link">{{ .Name }}</a>
+                    </li>
+                    {{ end }}
+                  </ul>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="footer__info">
+          <div class="footer__info-box">
+            <div class="copyright">{{ dateFormat "2006" now }} &copy; <a href="/">{{ .Site.Title }}</a>. All Right Reserved. Published with <a href="https://gohugo.io/">Hugo</a>.</div>
+            <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</footer>
+<!-- end footer -->
