@@ -1,0 +1,30 @@
+<div class="article col col-4 col-d-6 col-t-12">
+
+  {{ if .Params.Image }}
+  <a class="article__image" href="{{ .RelPermalink }}">
+    <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+  </a>
+  {{ end }}
+
+
+  {{ if .Params.tags }}
+  <div class="article-tags__box">
+  {{ range ($.GetTerms "tags") }}
+    <a href="{{ .Permalink }}" class="article__tag">{{ .LinkTitle }}</a>
+  {{ end }}
+  </div>
+  {{ end }}
+
+  <h2 class="article__title">
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h2>
+
+  <div class="article__meta">
+    <div class="article-info">
+      <a href="/about/" class="article__author-link">{{.Site.Params.author.author__name}}</a> – <time class="article__date" datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+    </div>
+  </div>
+
+  <p class="article__excerpt">{{ if .Description }}{{ .Description }}{{ else }}{{ truncate 250 .Summary | safeHTML }}{{ end }}</p>
+
+</div>

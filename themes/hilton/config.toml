@@ -1,0 +1,257 @@
+#-------------------------------
+# General Site Settings
+googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+paginate = 6
+
+
+[params]
+  logo = "" # You can add own logo. For example "/images/logo.png".
+  description = "Member of TheASF, Apache APISIX PMC Member, freeCodeCamp"
+  color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Main Menu
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
+    hasChildren = true
+
+      [[menu.main]]
+      parent = "Pages"
+      name = "About"
+      url = "/about/"
+      weight = 1
+
+      [[menu.main]]
+      parent = "Pages"
+      name = "Contact"
+      url = "/contact/"
+      weight = 2
+
+      [[menu.main]]
+      parent = "Pages"
+      name = "Elements"
+      url = "/elements/"
+      weight = 3
+
+      # Footer Menu
+      [[menu.footer]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+
+      [[menu.footer]]
+      identifier = "projects"
+      name = "Projects"
+      url = "/projects/"
+      weight = 2
+
+      [[menu.footer]]
+      identifier = "blog"
+      name = "Blog"
+      url = "/posts/"
+      weight = 3
+
+      [[menu.footer]]
+      identifier = "about"
+      name = "About"
+      url = "/about/"
+      weight = 4
+
+      [[menu.footer]]
+      identifier = "contact"
+      name = "Contact"
+      url = "/contact/"
+      weight = 5
+
+      [[menu.footer]]
+      identifier = "elements"
+      name = "Elements"
+      url = "/elements/"
+      weight = 6
+
+
+  #-------------------------------
+  # Author Settings
+  [params.author]
+    author__name = "Monica Hilton"
+    author__bio = "So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail."
+    author__avatar = "https://via.placeholder.com/500x500"
+
+  # Social Links
+  [[params.social]]
+    icon = "ion-logo-twitter"
+    name = "Twitter"
+    link = "https://twitter.com"
+
+  [[params.social]]
+    icon = "ion-logo-facebook"
+    name = "Facebook"
+    link = "https://facebook.com"
+
+  [[params.social]]
+    icon = "ion-logo-instagram"
+    name = "Instagram"
+    link = "https://instagram.com"
+
+  [[params.social]]
+    icon = "ion-logo-pinterest"
+    name = "Pinterest"
+    link = "https://pinterest.com"
+
+  [[params.social]]
+    icon = "ion-logo-github"
+    name = "Github"
+    link = "https://github.com"
+
+  # Example of adding a new link to the footer:
+  # [[params.social]]
+  #   icon = "ion-logo-youtube"
+  #   name = "Youtube"
+  #   link = "https://youtube.com"
+
+  # Other icons can be found at https://ionicons.com/v4/
+
+
+  #-------------------------------
+  # Hero Settings
+  [params.hero]
+    enable = true
+    hero__title = "I'm Monica. I will create design that can give you value"
+    hero__description = "So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail."
+    hero__image = "https://via.placeholder.com/1200x800"
+
+
+  #-------------------------------
+  # Newsletter Settings
+  [params.mailchimp]
+    enable = true
+    mailchimp__identifier = "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+    mailchimp__input__text = "Your email address..."
+    mailchimp__button__text = "Get updates" # Add your button text
+
+
+  #-------------------------------
+  # Projects Settings
+  [params.projects]
+    enable = true
+    projects__title= "Latest works"
+    projects__description= "I shows only the best websites and portfolios built completely with passion, simplicity & creativity!"
+
+
+  #-------------------------------
+  # Testimonials Section
+  [params.testimonials]
+    enable = true
+    testimonial__title = "What clients say"
+    testimonial__description = ""
+
+  [[params.testimonial_item]]
+    name = "Aspen Carder"
+    image = "https://via.placeholder.com/200x200"
+    designation = "Lettering Artist"
+    link = "https://twitter.com/"
+    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  [[params.testimonial_item]]
+    name = "Lydia Siphron"
+    image = "https://via.placeholder.com/200x200"
+    designation = "Designer"
+    link = "https://facebook.com/"
+    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  [[params.testimonial_item]]
+    name = "Craig Vaccaro"
+    image = "https://via.placeholder.com/200x200"
+    designation = "Web developer"
+    link = "https://twitter.com/"
+    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  [[params.testimonial_item]]
+    name = "Anika Calzoni"
+    image = "https://via.placeholder.com/200x200"
+    designation = "Lettering Artist"
+    link = "https://facebook.com/"
+    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  [[params.testimonial_item]]
+    name = "Marcus Botosh"
+    image = "https://via.placeholder.com/200x200"
+    designation = "Full Stack Designer"
+    link = "https://twitter.com/"
+    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+
+  #-------------------------------
+  # Blog Section
+  [params.blog]
+    enable = true
+    blog__title = "Recent Posts"
+    blog__description = ""
+
+
+  #-------------------------------
+  # Gallery Footer Settings
+  [params.gallery]
+    enable = true
+
+  [[params.gallery_image]]
+    image_alt = "Rest"
+    image_url = "https://via.placeholder.com/800x800"
+
+  [[params.gallery_image]]
+    image_alt = "Lifestyle"
+    image_url = "https://via.placeholder.com/800x800"
+
+  [[params.gallery_image]]
+    image_alt = "Hobby"
+    image_url = "https://via.placeholder.com/800x800"
+
+  [[params.gallery_image]]
+    image_alt = "Notes"
+    image_url = "https://via.placeholder.com/800x800"
+
+
+  #-------------------------------
+  # Contact Settings
+  [params.contact]
+    contact__email = "your@email.com" # Add your form_id
+
+    # NOTE
+    # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+  #-------------------------------
+  # Comment Section (Disqus)
+  [params.disqus]
+    enable = true
+    disqusShortname = "anvodstudio-demo" # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false

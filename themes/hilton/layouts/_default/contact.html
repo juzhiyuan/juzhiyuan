@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+<div class="container">
+  <div class="row">
+
+    <div class="col col-12">
+      <div class="page-head">
+        <h1 class="page-title">{{ .Title }}</h1>
+        {{ if .Description }}
+        <p class="page-description">{{ .Description }}</p>
+        {{ end }}
+      </div>
+    </div>
+
+    {{ if .Params.image }}
+    <div class="col col-12">
+      <div class="page-image animate">
+        <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+      </div>
+    </div>
+    {{ end }}
+
+  </div>
+</div>
+
+<!-- begin page -->
+<div class="container animate">
+  <article class="page">
+    <div class="page__content">
+
+      <div class="form-box">
+        <div class="contact-head">
+          {{ if .Content }}
+            <div class="contact-description">{{ .Content }}</div>
+          {{ end }}
+        </div>
+        <form class="form" action="{{ if .Site.Params.contact.contact__email }}https://formspree.io/f/{{.Site.Params.contact.contact__email}}{{ else }}#{{ end }}" method="POST">
+          <div class="form__group">
+            <label class="form__label screen-reader-text" for="form-name">Name</label>
+            <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
+          </div>
+          <div class="form__group">
+            <label class="form__label screen-reader-text" for="form-email">Email</label>
+            <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email" required>
+          </div>
+          <div class="form__group">
+            <label class="form__label screen-reader-text" for="form-text">Message</label>
+            <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message" required></textarea>
+          </div>
+          <div class="form__group form__group-button">
+            <button class="button button--primary" type="submit">Send Message</button>
+          </div>
+        </form>
+      </div>
+
+    </div>
+  </article>
+</div>
+<!-- end page -->
+
+{{ end }}

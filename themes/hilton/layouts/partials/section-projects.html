@@ -1,0 +1,44 @@
+{{ if .Site.Params.projects.enable }}
+<!-- begin projects -->
+<section class="section projects animate">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="contaniner__inner animate">
+
+          <div class="section__info">
+            <h2 class="section__title">{{ .Site.Params.projects.projects__title | safeHTML }}</h2>
+            {{ if .Site.Params.projects.projects__description }}
+              <p class="section__description">{{ .Site.Params.projects.projects__description }}</p>
+            {{ end }}
+          </div>
+
+          <div class="row">
+            {{ range (where .Site.RegularPages "Section" "projects" | first 6 ) }}
+            <article class="project col col-4 col-d-6 col-t-12">
+              <div class="project__content">
+                <a href="{{ .RelPermalink }}" class="project__image">
+                  <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Params.Title }}">
+                </a>
+                <div class="project__info">
+                  <h3 class="project__title"><a href="{{ .RelPermalink }}">{{ .Params.title }}</a></h3>
+                  {{ if .Params.subtitle }}
+                    <div class="project__subtitle">{{ .Params.subtitle }}</div>
+                  {{ end }}
+                </div>
+              </div>
+            </article>
+            {{ end }}
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section__navigation">
+    <a href="/projects" class="button button--primary section-button">See all</a>
+  </div>
+</section>
+<!-- end projects -->
+{{ end }}

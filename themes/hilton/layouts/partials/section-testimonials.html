@@ -1,0 +1,57 @@
+{{ if .Site.Params.testimonials.enable }}
+<!-- begin testimonials -->
+<section class="section testimonials animate">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+
+        <div class="section__info">
+          <div class="section__head">
+            <h2 class="section__title">{{ .Site.Params.testimonials.testimonial__title | safeHTML }}</h2>
+          </div>
+          {{ if .Site.Params.testimonials.testimonial__description }}
+            <p class="section__description">{{ .Site.Params.testimonials.testimonial__description }}</p>
+          {{ end }}
+        </div>
+
+        <div class="testimonials__slider my-slider">
+        {{ with .Site.Params.testimonial_item }}
+          {{ range . }}
+            <div class="testimonial-item">
+              <div class="testimonial-content">
+                <div class="client-meta">
+                  {{ if .image }}
+                    <div class="image-container">
+                      <img class="client-avatar" src="{{ .image }}" alt="{{ .name }}" loading="lazy">
+                    </div>
+                  {{ end }}
+                  <div class="client-info">
+                    {{ if .name }}
+                    <h3 class="client-name">
+                      {{ if .link }}
+                        <a href="{{ .link }}" target="_blank" rel="noopener">{{ .name }}</a>
+                      {{ else }}
+                        {{ .name }}
+                      {{ end }}
+                      {{ end }}
+                    </h3>
+                    {{ if .designation }}
+                      <p class="client-designation">{{ .designation }}</p>
+                    {{ end }}
+                  </div>
+                  {{ if .content }}
+                    <p class="client-text">{{ .content }}</p>
+                  {{ end }}
+                </div>
+              </div>
+            </div>
+          {{ end }}
+        {{ end }}
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end testimonials -->
+{{ end }}

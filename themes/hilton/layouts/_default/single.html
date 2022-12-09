@@ -1,0 +1,103 @@
+{{ define "main" }}
+
+{{ if or (eq .Section "post") (eq .Section "posts") }}
+
+<div class="post-head">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+
+        <div class="post-info">
+          <div class="post-tags">
+            {{ range ($.GetTerms "tags") }}
+              <a href="{{ .Permalink }}" class="post__tag">{{ .LinkTitle }}</a>
+            {{ end }}
+          </div>
+          <h1 class="post-title">{{ .Title }}</h1>
+          <div class="post-meta">
+            <a href="/about/" class="post-author-link">{{.Site.Params.author.author__name}}</a> –
+            <time class="post-date" datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ if .Params.image }}
+<div class="container animate">
+  <div class="row">
+    <div class="col col-12">
+      <div class="post-image">
+        <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+<!-- begin post -->
+<div class="container animate">
+  <article class="post">
+
+    <div class="post__content">
+      {{ .Content }}
+    </div>
+
+    {{ partial "share-buttons.html" . }}
+
+  </article>
+</div>
+<!-- end post -->
+
+{{ partial "related-posts.html" . }}
+
+{{ if .Site.Params.disqus.disqusShortname }}
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      {{ partial "disqus-comments.html" . }}
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ else }}
+
+<div class="container">
+  <div class="row">
+
+    <div class="col col-12">
+      <div class="page-head">
+        <h1 class="page-title">{{ .Title }}</h1>
+        {{ if .Description }}
+          <p class="page-description">{{ .Description }}</p>
+        {{ end }}
+      </div>
+    </div>
+
+    {{ if .Params.image }}
+    <div class="col col-12">
+      <div class="page-image animate">
+        <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+      </div>
+    </div>
+    {{ end }}
+
+  </div>
+</div>
+
+<!-- begin page -->
+<div class="container animate">
+  <article class="page">
+    <div class="page__content">
+      {{ .Content }}
+    </div>
+  </article>
+</div>
+<!-- end page -->
+
+{{ end }}
+
+{{ end }}
