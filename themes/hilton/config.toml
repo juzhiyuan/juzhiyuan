@@ -87,7 +87,7 @@ paginate = 6
   [params.author]
     author__name = "Zhiyuan Ju"
     author__bio = "Member of TheASF, Apache APISIX PMC Member, freeCodeCamp"
-    author__avatar = "/images/avatar.jpeg"
+    author__avatar = "https://static.juzhiyuan.me/avatar.jpeg"
 
   # Social Links
   [[params.social]]
@@ -120,7 +120,7 @@ paginate = 6
     enable = true
     hero__title = "I'm Zhiyuan Ju, Member of TheASF."
     hero__description = "I love open source community 💗 I started maintaining Apache APISIX Community in 2019 and am a member of The Apache Software Foundation. I am also one of the core members of freeCodeCamp China."
-    hero__image = "/images/Zhiyuan_Ju_Avatar.jpeg"
+    hero__image = "https://static.juzhiyuan.me/Zhiyuan_Ju_Avatar.jpeg"
 
 
   #-------------------------------
