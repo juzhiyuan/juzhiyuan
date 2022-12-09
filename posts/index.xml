@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Zhiyuan Ju's Blog</title><link>https://juzhiyuan.me/posts/</link><description>Recent content in Blog on Zhiyuan Ju's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 30 Nov 2022 16:11:35 +0000</lastBuildDate><atom:link href="https://juzhiyuan.me/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>What values we could take to users?</title><link>https://juzhiyuan.me/posts/what-values-we-could-take-to-users/</link><pubDate>Wed, 30 Nov 2022 16:11:35 +0000</pubDate><guid>https://juzhiyuan.me/posts/what-values-we-could-take-to-users/</guid><description>Nearly every customer asks me: what values it compares to xxx?
+It’s a real user question that everyone will ask, if we try to understand the user’s real question and try to stand at user’s position, we will know why.
+Maybe they have load from internal team, maybe they need to finish their own work, maybe … There have many cases, but we need to know the real reason: to support them the best.</description></item><item><title>How To Get On The Frontpage of Hacker News</title><link>https://juzhiyuan.me/posts/how-to-get-on-the-frontpage-of-hacker-news/</link><pubDate>Wed, 30 Nov 2022 16:09:14 +0000</pubDate><guid>https://juzhiyuan.me/posts/how-to-get-on-the-frontpage-of-hacker-news/</guid><description>Write Something Worth Reading: You need to write something interesting. If you don’t, trying to get on the frontpage will be a waste of your time. Even if you manipulate and get upvotes, hacker news readers will rip you apart and you’ll wish you never got there. Send the link (//news.ycombinator.com/newest) to at least 20 people from different locations that you know will upvote or submit it. I’ve heard that people submitting or upvoting with a solid amount of karma helps (although I’m not sure how much really).</description></item><item><title>舅爷</title><link>https://juzhiyuan.me/posts/a-relative-passed-away/</link><pubDate>Wed, 30 Nov 2022 16:01:39 +0000</pubDate><guid>https://juzhiyuan.me/posts/a-relative-passed-away/</guid><description>舅爷是奶奶的哥哥，我从小到大听到很多次的就是：给“我”哥带点。家里菜摘得多了、家里买平常不会买的较为稀罕的东西时，奶奶会骑车或让家人开车送过去一些。
+小时候每年我都会去舅爷家几次，他家有红薯窖，我还能记起小时候下窖前要用蜡烛试探一下的情景。
+舅爷人很朴实，全家人都能很明显地感受到奶奶对舅爷是很好的，兄妹之间情谊很深，自然而然的，作为小辈的我们也对舅爷很亲。
+今晚看到了江泽民同志逝世的消息后，想起今年读的《邓小平时代》以及小时候读到过的相关传记，我便给家里打电话说这件事，不曾想家人说舅爷今早也走了。其实听到这件消息时我心里是触动了一下的，紧接着我便安慰说人到了年纪终究会离开的，我们要继续过好现在。
+打小我对死亡便离得很远，我很不喜欢这种事情，当然也没人喜欢。我接触这类事情不多，自有印象起：很小很小的时候姨奶奶离世，我在寄宿学校读书没有参加葬礼；大学时参与了一位年纪很大的姑爷的葬礼；再然后便是工作后姥爷离开。
+我很庆幸在小的时候经历这样的事情很少，但随着逐渐长大，内心不断地告诉自己：身边的亲人年纪也在逐渐增大，这样的事情自己是避免不了的，因此我会通过照片、视频和声音把经历记录下来，这样可以传给下一代 ^ ^
+我们都很担心奶奶心情会很差，毕竟顶梁柱哥哥不在了。晚上我给家里打了许多个电话，好在家人们精神都不错，都能很快的从悲伤中走出来 ^ ^ 因为疫情管控，丧事必须减半，原本老家习惯三天后办事儿，如今当天便土葬了。
+大学毕业后的几年，我也想过如果某一天自己不在了，我不希望朋友、亲人为我流泪，我希望 TA 们会因为认识我而感到开心 ^ ^ 希望自己在有能力的时候让 TA 们也幸福。</description></item><item><title>Go or Stay</title><link>https://juzhiyuan.me/posts/go-or-stay/</link><pubDate>Fri, 11 Nov 2022 22:28:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/go-or-stay/</guid><description>Today I was asked again to prepare go abroad (out of China) next year. Maybe most of early members and founders will come to different countries as well. It’s super cool to go abroad freely, but I’m not alone now, I have the new family.
+I need to make a decision on this: go or stay.
+I have worked with team for nearly 3 years: from only 2 founders to nearly 50 members across several countries.</description></item><item><title>Addicted to Work</title><link>https://juzhiyuan.me/posts/addicted-to-work/</link><pubDate>Wed, 12 Oct 2022 22:40:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/addicted-to-work/</guid><description>It’s hard to leave rest work until tomorrow for me, such case has been several years since 2015 🙂
+Nearly everyone thinks I’m crazy and addicted to work, but some of them know I just enjoy working, and I am achieving high-level objectives, though it’s really sometimes tired, especially recently.
+Yesterday my girlfriend talked to me seriously, I can’t live only for work. I know family is the first priority in my life because only family can always “work” with you.</description></item><item><title>Use Keycloak with API Gateway to secure APIs</title><link>https://juzhiyuan.me/posts/use-keycloak-with-api-gateway-to-secure-apis/</link><pubDate>Wed, 06 Jul 2022 22:15:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/use-keycloak-with-api-gateway-to-secure-apis/</guid><description>OpenID Connect referred to as OIDC, is an authentication protocol based on the OAuth 2.0. It allows the client to obtain user information from the identity provider (IdP), e.g., Keycloak, Ory, Okta, Auth0, etc. The open-source API Gateway Apache APISIX supports using the openid-connect plugin to integrate with the above identity Providers. It will redirect all unauthenticated clients to IdP’s login page. After the successful authentication, APISIX will pass the user information to the upstream service.</description></item><item><title>How to use Gitpod to develop Apache APISIX?</title><link>https://juzhiyuan.me/posts/how-to-use-gitpod-to-develop-apache-apisix/</link><pubDate>Thu, 19 May 2022 00:00:00 +0800</pubDate><guid>https://juzhiyuan.me/posts/how-to-use-gitpod-to-develop-apache-apisix/</guid><description>Background Use Gitpod as the Apache APISIX development and startup environment, which is convenient for new users to use, develop, and contribute.
+Terminology Apache APISIX A new generation of API gateways under the Apache Software Foundation, watch the video What&amp;rsquo;s API Gateway to learn more.
+ETCD The configuration storage center of Apache APISIX, which can be understood as a database (but not completely equivalent).
+Gitpod Developer tools running in the browser (with VS Code embedded).</description></item><item><title>如何使用 Gitpod 搭建 Apache APISIX 开发环境？</title><link>https://juzhiyuan.me/posts/how-to-use-gitpod-to-develop-apache-apisix.zh/</link><pubDate>Thu, 19 May 2022 00:00:00 +0800</pubDate><guid>https://juzhiyuan.me/posts/how-to-use-gitpod-to-develop-apache-apisix.zh/</guid><description>背景 使用 Gitpod 作为 Apache APISIX 开发与启动环境，方便新手用户使用、研发、参与贡献。
+名词简介 Apache APISIX Apache 软件基金会下的新一代 API 网关，可观看视频 https://www.youtube.com/watch?v=hWRRdICvMNs 了解更多内容。
+ETCD Apache APISIX 的配置存储中心，可理解为数据库（但不完全等价）。
+Gitpod 运行在浏览器中的开发者工具（内嵌 VS Code），无需在自己的设备中配置环境、部署代码，统一开发环境。
+步骤 注册并登陆 GitHub.com Fork 并克隆 apisix 项目 访问 https://github.com/apache/apisix 进入 apache/apisix 项目首页 点击右上角 Fork 按钮后进入如下页面 点击 Create fork 按钮并稍等片刻 当左上角显示你的 GitHub 账户名称时，表示 Fork 成功 点击 Code -&amp;gt; HTTPS -&amp;gt; 复制（该链接会在下方使用） 导入 apisix 项目到 Gitpod 中 访问 https://www.gitpod.io/ ，点击 Try now，然后使用 GitHub 登陆 选择默认选项 VS Code Browser 并点击 Continue 点击 New Workspace 并粘贴在第 2 步中复制的链接 点击该链接并进入如下页面 显示如下界面时表示准备就绪（左侧为目录、右上方为代码编辑框、右下方为命令行区域） 安装 ETCD # 进入 apisix 文件夹的父目录以安装 ETCD cd .</description></item><item><title>新晋 95 后 Apache Member - 琚致远</title><link>https://juzhiyuan.me/posts/apache-member-2/</link><pubDate>Fri, 15 Apr 2022 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/apache-member-2/</guid><description>在线收听播客 No 21. 新晋 95 后 Apache Member - 琚致远
+姜宁：我们今天非常高兴能邀请到琚致远，他是非常年轻的 95 后 Apache Member。我们请他来跟大家一起交流交流他自己的成长经历，现在有请琚致远给大家打一下招呼。
+琚致远：Hello，大家好，我是琚致远。我在 2019 年毕业之后参与到了 APISIX 社区里面，算是比较早的一批贡献者。到现在在 API7，就是当时捐献 APISIX 项目的商业公司里面负责全球化团队。
+姜宁：我先恭喜一下琚致远成为 95 后年轻的 Member。在 ALC Beijing 公众号上，也有相关的一篇文章，现在阅读量还挺高的，有 2000 多的阅读量，就是说我们这个 95 后的 Apache Member 琚致远。开始我们第一个问题，琚致远我们想问一下，就是你作为新当选的这个 Apache Member，你自己有什么这个心得感悟吧？
+琚致远：OK，嗯首先关于 Apache 软件基金会，我是在大学的时候就了解到了，因为那个时候会用到 Apache server，还有 Nginx。那在大学毕业之后，很偶然的机会，因为 温铭 的介绍，就加入了 APISIX。但当时并不知道这个项目会捐给基金会，一直到 2019 年下半年的时候，当时知道项目捐给基金会之后呢，还成为了 IPMC。对，这个对我来说，其实是影响很深，我觉得影响很大的。当时获得了 Apache 的一个邮箱，因为我还没有来支流科技嘛，那个时候我还给全公司里面的人都在炫耀，我说唉，我现在有一个 Apache 的邮箱了，会非常非常的酷。那现在的话，在过去两年时间里面，不管是社区的建设，还是 PMC 内部的一些讨论，还有社区之上的关于如何吸引更多的贡献者，更多有质量的贡献者参与等等一系列事项，我觉得自己有一个念头是觉得成为 PMC 之后，应该能成为 Member，但是没有想到来得那么快。
+姜宁：嗯。
+琚致远：对。
+姜宁：是，就是从我自身的这个经历来说，我是 2006 年就是作为 Initial Committer，跟你那个 APISIX 的那个经历差不多，但是我是花了一年时间，然后拿到这个 Apache Committer，然后大概又过了两年，然后才被 Apache Camel Committer，所以我当时在发你那个文章的时候，我加了一个感叹，这个后生可畏。这个大家发展速度还是挺好的。我觉得有一个比较好的土壤之后，就是特别是在开源社区的话，这个对于大家来说的话，就是其实是没有任何限制的。就是你只要就是不断地这个主动地去做一些贡献啊，参与的社区，其实是很快能够得到大家认可。我记 温铭 去提名你的时候，其实也是主要我觉得看重的是你在社区层面上面做了好多好多工作。因为我们之前其实或多或少在邮电列表里面也看到，因为我我是 ABS 这个 Member，这个订阅邮件，然后还有就是在推特上面啊，这就也能看到一些消息是。上次让我感触最大的就是就是这个印度，有一印度小伙，然后正好参加了是那个 Google Summer of Code 是吗？</description></item><item><title>我与 Apache 软件基金会的故事</title><link>https://juzhiyuan.me/posts/apache-software-foundation/</link><pubDate>Mon, 11 Apr 2022 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/apache-software-foundation/</guid><description>2015 年我在读大一，在部署 Web 项目时用到了 Apache Web Server，Apache 软件的羽毛标志只需看一眼就能牢牢记住。
+Apache 软件基金会成立于 1999 年（我出生于 1997 年），作为全球最大的开源软件基金会，我从未想过会现在与它有更深入地联系。
+项目 2019 年大学毕业后不久，APISIX 项目发起人联系到我，希望我能为 APISIX 贡献一个 Dashboard 项目。首先，什么是 APISIX？那时我对 APISIX 项目的理解仅仅是一个开源的 API 网关，那什么是 API 网关呢？我没有使用过这类产品，更谈不上如何做一个与 APISIX 配套的 Dashboard 了。
+在大学期间自己接了许多项目（来自学校、朋友介绍、政府部门），尽管我对“如何构建 API 网关控制台”没有思路，但我清楚一个 Web 项目包含了“需求确认、产品设计、代码开发、功能测试、服务上线”这几项基本流程。
+在多次与 温铭、院生 沟通产品需求后，我为 APISIX 项目制作了 APISIX Dashboard V1：它没有精致的 UI（如下图所示），但能够满足对 APISIX 核心概念地操作，此时自己对 API 网关以及 APISIX 相关概念更加清晰了。
+值得一提的是：APISIX 内置了数十种插件对 API 请求、响应进行处理，这些插件通过 JSONSchema 进行插件配置参数地合法性检查。以 limit-req 插件为例，它的 JSONSchema 规则如下：
+local schema = { type = &amp;#34;object&amp;#34;, properties = { rate = {type = &amp;#34;number&amp;#34;, exclusiveMinimum = 0}, burst = {type = &amp;#34;number&amp;#34;, minimum = 0}, key = {type = &amp;#34;string&amp;#34;}, key_type = {type = &amp;#34;string&amp;#34;, enum = {&amp;#34;var&amp;#34;, &amp;#34;var_combination&amp;#34;}, default = &amp;#34;var&amp;#34;, }, rejected_code = { type = &amp;#34;integer&amp;#34;, minimum = 200, maximum = 599, default = 503 }, rejected_msg = { type = &amp;#34;string&amp;#34;, minLength = 1 }, nodelay = { type = &amp;#34;boolean&amp;#34;, default = false }, allow_degradation = {type = &amp;#34;boolean&amp;#34;, default = false} }, required = {&amp;#34;rate&amp;#34;, &amp;#34;burst&amp;#34;, &amp;#34;key&amp;#34;} } 当用户为某一条 Route 配置插件时，为了降低用户理解 JSONSchema 规则的难度，我们尝试在界面中根据规则直接渲染表单字段，如何在界面中动态地生成插件配置表单是我遇到的最大的挑战。通过一系列调研与测试，我自定义了一个 UI 组件，它可以通过接收 JSONSchema 规则渲染指定表单，这个组件得到了许多用户好评。</description></item><item><title>琚致远：95 后 Apache Member 的成长之路</title><link>https://juzhiyuan.me/posts/apache-member/</link><pubDate>Thu, 24 Mar 2022 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/apache-member/</guid><description>原文首发在「ALC Beijing」微信公众号中，由 饶雅惠 通过采访并引导 致远 分享完成本文。
+https://mp.weixin.qq.com/s/AAxqDiBhrWK4z5V1QmBpWg
+琚致远(GitHub: juzhiyuan)，1997 年出生，2019 年 10 月入选 Apache APISIX PPMC，2022 年 3 月入选 Apache Member 和中国开源码力榜。他是开源软件商业公司 API7.ai 的 Global Team Leader，也是 ApacheCon Speaker、OSPP/GSoC Mentor、（2019 年之前）freeCodeCamp 中国核心组织者之一。
+他小学开始接触电脑，学习 Flash 技术，初高中自学 Web 渗透，爱上黑客文化，加入乌云白帽，大学加入 freeCodeCamp 社区，成为 Web 技术的布道师、引路人，从此和开源结下不解之缘。成为开源社区的深度参与者和 Apache APISIX 的核心成员，广泛参与活动，对外讲述自己的开源经历、技术成长经历，传播开源文化和 Apache 文化。
+他说他是个极客，敢想敢做，不被条条框框束缚，所做的一切只是因为热爱，因为追求真理。他说每个开源项目的背后是一个开源社区，开源精神在于我们有想法，我们想实现出来，公开出来，邀请更多的人参与进来。他说他很开心在技术学习、开源参与这条路上能为后来人提供力所能及的帮助，自己成长的前提是身边的人一起成长。
+作为 Apache APISIX 的 PMC 成员，致远为 Apache APISIX 所做的贡献有目共睹。如今，他加入 Apache 软件基金会，成为 Apache Member，在开源这条路上走得更远。Apache APISIX 社区对此表示祝贺，也邀请了致远做客访谈，聊聊他过去 10 年的开源经历和技术成长之路。
+开源经历 Apache APISIX 社区：你从什么时候开始接触计算机，学习编程？</description></item><item><title>How to involve open source community with passion?</title><link>https://juzhiyuan.me/posts/involve-open-source-community-with-passion/</link><pubDate>Tue, 18 Jan 2022 00:00:00 +0800</pubDate><guid>https://juzhiyuan.me/posts/involve-open-source-community-with-passion/</guid><description>In early 2022, I recorded my first podcast with Siwei, Ponyboy, and Rick. 👏 I use DeepL translate Chinese contents and try to use Grammarly to make post clear and effective.
+Siwei: Welcome to the new episode of Open Source Face to Face! I am Siwei Gu. Today, our hosts are Xiao Ma and Rick. Today&amp;rsquo;s main character is Zhiyuan Ju, a PMC member of the Apache APISIX project and a young &amp;ldquo;old&amp;rdquo; open-source player.</description></item><item><title>专访琚[jū]致远：聊聊兴趣与成就感如何驱动他参与开源社区</title><link>https://juzhiyuan.me/posts/involve-open-source-community-with-passion.zh/</link><pubDate>Tue, 18 Jan 2022 00:00:00 +0800</pubDate><guid>https://juzhiyuan.me/posts/involve-open-source-community-with-passion.zh/</guid><description>2022 年初，与 思为、小马哥、Rick 一起录制了播客，欢迎收听 👏 大家可访问 喜马拉雅 或 Apple Podcast。
+思为：欢迎大家来到新的一期《开源面对面》！我是古思为，今天我们的 Host 有 小马哥 和 Rick，今天的主角是 琚致远 同学，致远 同学是 Apache APISIX 项目的 PMC 成员，是一位年轻的“老”开源玩家，我们请 致远 先自我介绍一下。
+致远：大家好，我是致远。我在 2019 年毕业之后参与到了 Apache APISIX 项目中，在此之前与 Miya 做 freeCodeCamp，主要是面向国内的社区；毕业之后开始参与 Apache APISIX，其中也有很多故事，待会会分享。
+思为：我们进入正题，经常关注开源圈子的同学，或者在推特上经常关注开源的同学，应该也知道 致远。之前我们私下接触，知道 致远 的成长经历非常非常的有意思，你能给我们介绍一下，你是怎么样一点点接触 CS、编程、开源的吗？
+致远：好的，我于 1997 年出生，在 2003 年的时候，我的叔叔在北京中关村为我拼了一台主机。当时抱回家的时候，我会沉浸在诸如 300 个 Flash 小游戏中，玩游戏时间久了之后觉得是不是自己可以做一个，因为它都是一些 SWF 文件，我就去和妈妈讲能不能买一本 Flash 教程？这套教程当时挺贵的（大约 120 元），我在妈妈身边哼哼唧唧好久，最终妈妈给我买了一套，紧接着我跟着教程边看边做，许久之后，发现好像这个事情不太适合我，就继续去玩一些其它的游戏，例如跑跑卡丁车。我记得是 2008 年时候，2008 年暑假，我的 QQ 号被盗了，被盗了之后我就想着看一看怎么给它找回来，那找的过程中，发现好像有一个词叫做 Web 安全，有一个词叫做渗透，还有什么木马、钓鱼，然后就了解到了一些平台，像黑客帝国，叫什么？黑客帝国就这种平台，当时有很多这种教 hacker 这种技术的站点，还有收费的那种，我就自己在网上下载各种各样的脚本去执行，去渗透别人的站什么的。后来才发现原来这个叫脚本小子，我觉得不够酷，于是就想着去学一些再深一点的，就开始从头开始去学一些编程语言，当时那个时候还流行着 Delphi，还有易语言，就你可以做一个很简单的框框，放到网吧的，把它的 QQ 点 exe 文件替换掉，别人只要一填账号密码，它就给你发封邮件，发到你自己的邮箱里面，就当时做这种事情，再到后来了。对，再到后来就了解到有个词叫社工，我觉得社工这个事情它比较依赖于你的一个同理心，你擅长跟人打交道，当时就恶搞我的同桌。他给游戏里面充了很多钱，在我这边炫耀，但是我又不玩游戏，我就说你等着，我试试能不能给你把账号拿过来，我就跟他聊着聊着，套了一些信息之后。把他的《穿越火线》、QQ 账号，把密保什么的全都给它解掉。当然，后来我把这个又还给他了。在中学的时候，当时看到我们初中的校长他在整理学生的一些信息的时候，都是在几十个，可能有四五十个 Excel 表里面一个一个去搜，我说能不能给他做一个程序，让他一输名字或者一输学号就可以找到的。我就跟他聊了这个想法，他自己也比较支持，给了我那些事例数据，我就拿走。我知道了 Excel 表的它的一个结构之后，就用了有一个很老的数据库叫什么？Microsoft Access，是叫 Access，好像是叫 Access。</description></item><item><title>开源活动中的学生故事</title><link>https://juzhiyuan.me/posts/attendees-story-of-summer-2021/</link><pubDate>Sun, 09 Jan 2022 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/attendees-story-of-summer-2021/</guid><description>Apache APISIX 社区参与了 2020 年、2021 年的中科院南京软件所的开源之夏活动，从我个人视角分享 4 位学生的成长故事。</description></item><item><title>Apache APISIX 动态能力原理</title><link>https://juzhiyuan.me/posts/why-apache-apisix-dynamically/</link><pubDate>Wed, 29 Dec 2021 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/why-apache-apisix-dynamically/</guid><description>Apache APISIX 作为 API 网关，在更新路由规则、上游节点配置、SSL 证书等配置时是无需重启服务的，只需要调用 RESTful API 即可毫秒级生效，避免重启服务、加载配置导致业务中断，否则一是重启服务期间有一定量的请求无法被正确处理，二是会导致 WebSocket 长连接客户端中断，非常影响客户端用户体验，从而进一步导致业务数据下滑。 Apache APISIX 的全动态能力与其运行机制密不可分，下图为 Apache APISIX 对请求的处理流程：
+Apache APISIX 启动时会从 ETCD 读取配置并加载到内存中以生成 Router（路由器），请求进入后 Router 会根据预设规则对请求特征进行匹配分析，当管理员通过 AdminAPI 下发配置到 ETCD，ETCD 便会主动通知 Apache APISIX 节点动态更新内存中配置生成新的 Router、借助 Lua 更改运行时行为，以此来实现动态能力。相比较而言，在 Nginx 中更新配置后需要 reload 服务才可生效，这是因为它的路由表来源于静态配置文件，而 Apache APISIX 是基于内存，因此 Apache APISIX 可以动态生成与构建。值得一提的是，Apache APISIX 支持了多种 Router 来处理东西、南北向流量，其中：
+radixtree_host_uri：南北向流量作为业务流量出入口，需先判断 Host 再判断 URI，适用于该路由器算法； radixtree_uri：集群内服务间东西向流量在请求匹配时更关注 URI 参数，适用于该路由器算法，省掉 Host 判断效率更高。 南北向流量主要根据 Host 做反向代理，由于业务演变地愈加复杂，因此需要更细颗粒度的匹配与控制，于是 Apache APISIX 针对不同场景下流量处理有着更有优的处理方式。</description></item><item><title>一名毕业生的 7 年开源之路</title><link>https://juzhiyuan.me/posts/kaiyuanshe-2021/</link><pubDate>Sat, 30 Oct 2021 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/kaiyuanshe-2021/</guid><description/></item><item><title>The practice of Apache APISIX in Low-Code Gateway</title><link>https://juzhiyuan.me/posts/the-practice-of-apache-apisix-in-low-code-gateway/</link><pubDate>Tue, 12 Oct 2021 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/the-practice-of-apache-apisix-in-low-code-gateway/</guid><description/></item><item><title>开源的魅力（ApacheCon 2021）</title><link>https://juzhiyuan.me/posts/the-appeal-of-opensource/</link><pubDate>Fri, 06 Aug 2021 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/the-appeal-of-opensource/</guid><description>Apache 软件基金会顶级项目 Apache APISIX 以及子项目，在过去 30 天中共合并了 250+ PRs，贡献者趋势也十分乐观。除此之外，高质量的邮件列表、活跃的、QQ 群 与 GitHub 也吸引众多社区的关注。作为 Apache APISIX PMC，从我的视角来分享 Apache APISIX 做了哪些事情，催化出活跃的社区？
+录播：https://apisix.apache.org/articles/The-Appeal-of-OpenSource/
+bilibili：https://www.bilibili.com/video/BV1tg41157TB?zw
+ApacheCon https://apachecon.com/acasia2021/zh/sessions/1104.html</description></item><item><title>Applying Plugin Orchestration in Apache APISIX</title><link>https://juzhiyuan.me/posts/use-of-plugin-orchestration-in-apache-apisix/</link><pubDate>Mon, 26 Jul 2021 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/use-of-plugin-orchestration-in-apache-apisix/</guid><description>Original：https://apisix.apache.org/blog/2021/07/27/use-of-plugin-orchestration-in-apache-apisix/
+What is Apache APISIX Apache APISIX is a dynamic, real-time, high-performance API gateway. Apache APISIX provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more. It has more than 50 built-in plugins covering authentication, security, traffic control, Serverless, observability, and other aspects to meet the common usage scenarios of enterprise customers.
+As shown in the architecture diagram below, Apache APISIX is divided into two parts: the data plane (left side) and the control plane (right side): the control plane sends down the configuration to ETCD, and the data plane handles internal and external traffic with the help of rich plug-ins.</description></item><item><title>插件编排在 Apache APISIX 中的应用与实践</title><link>https://juzhiyuan.me/posts/use-of-plugin-orchestration-in-apache-apisix.zh/</link><pubDate>Mon, 26 Jul 2021 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/use-of-plugin-orchestration-in-apache-apisix.zh/</guid><description>通过阅读本文，您可以了解 Apache APISIX 与基本使用场景，以及在低代码潮流下，Apache APISIX 是如何集成“拖拽”的插件编排能力的。本文作者琚致远，Apache APISIX PMC，在支流科技负责企业产品与大前端技术。
+原文：https://apisix.apache.org/blog/2021/07/27/use-of-plugin-orchestration-in-apache-apisix/
+本文作者琚致远，为 Apache APISIX PMC，在支流科技负责企业产品与大前端技术。通过阅读本文，您可以了解 Apache APISIX 与基本使用场景，以及在低代码潮流下，Apache APISIX 是如何集成“拖拽”的插件编排能力的。
+什么是 Apache APISIX Apache APISIX 是一个生产可用的七层全流量处理平台，可作为 API 网关处理业务流量入口，具有极高性能、超低延迟的显著特性。它内置了 50 多种插件，覆盖身份验证、安全防护、流量控制、Serverless、可观测性等多个方面，可满足企业客户常见的使用场景。
+如下方架构图所示，Apache APISIX 分为数据面（左侧）与控制面（右侧）两部分：通过控制面下发配置到 ETCD，数据面借助丰富的插件处理内外流量。
+Apache APISIX 暴露了一组接口，方便我们为 API 绑定插件。如果我们希望为 API 增加限速能力，只需为 API 绑定 limit-req 插件：
+curl -X PUT http://127.0.0.1:9080/apisix/admin/routes/1 -d &amp;#39; { &amp;#34;uri&amp;#34;: &amp;#34;/get&amp;#34;, &amp;#34;methods&amp;#34;: [&amp;#34;GET&amp;#34;], &amp;#34;upstream&amp;#34;: { &amp;#34;type&amp;#34;: &amp;#34;roundrobin&amp;#34;, &amp;#34;nodes&amp;#34;: { &amp;#34;httpbin.org:80&amp;#34;: 1 } }, &amp;#34;plugins&amp;#34;: { &amp;#34;limit-req&amp;#34;: { &amp;#34;rate&amp;#34;: 1, &amp;#34;burst&amp;#34;: 2, &amp;#34;rejected_code&amp;#34;: 503, &amp;#34;key&amp;#34;: &amp;#34;remote_addr&amp;#34; } } }&amp;#39; 调用成功后，当请求到达该 API 时将进行限速管控。</description></item><item><title>赞助开源项目</title><link>https://juzhiyuan.me/posts/oss-sponsor/</link><pubDate>Fri, 18 Jun 2021 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/oss-sponsor/</guid><description>或许有一天，自己的开源项目可以解决一些人的问题，甚至受益者能够 Sponsor me，这会是一件很幸福的事情。
+今天收到印度 🇮🇳 小哥刚刚收到 MacBook Pro M1 的照片（图 1）。
+在和他过去数个月的沟通过程中，他在不停地学习、不停地帮助解决社区问题（Issues），但由于设备过于老旧而不得不频繁重启，原话是：“have to restart my computer again and again”。
+在和他持续、深入沟通与了解情况后，我决定赞助他一台 M1，希望这台设备能够帮助他更有效率的学习 ^_^
+结果会是如何？我不知道，我能做的是根据自己的经验与判断，引导他尽量不走弯路，假如一年后结果平平无奇，那对我而言也无太大损失（但可以教会我如何引导他人）。
+细数一下，自己在 GitHub 中 Sponsor 开源项目、独立开发者也有一年多了，TA 们的开源作品是我学习的最佳范例，因此我以 Sponsor 的形式向 TA 们致谢。</description></item><item><title>碎碎念 - 0616</title><link>https://juzhiyuan.me/posts/ssn-0616/</link><pubDate>Tue, 15 Jun 2021 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/ssn-0616/</guid><description>团队 招聘：文档工程师不好找？找优秀（开源）项目文档负责人； 团队协作，避免信息不对称，要多把问题抛出来；任何拿捏不准的事情，要抛出来问一问，不要替对方做决定； 看别的企业在做什么、为什么能融资、靠什么而活？不限制于技术； 尽可能早地承担可以量化的责任； 时间管理：做质量高、有质变、可复利（甚至可以 900% 效果）的事情。分为要做和不做的事； 比之前进步是就是好事儿，做成奈飞不会一蹴而就。创业公司内部大概率是乱糟糟的； 容易效仿的做法往往没有用，有用的事情从来不容易； 少量但高质量决策； 逆向思维：从因到果，从果到因。避免随波逐流； “谁阻挡你们前进，千万别客气。”； 持续、有安排的做事，把问题描述清楚。 产品 PM 要能够理解客户提的问题，并转换成内部的话术。势必会涉及你不熟悉的领域，学！ 当收集到的问题无法理解时，不妨再去问问提问的人，进行一场苏格拉底式的对话； 解决问题时，要能够想到第一性原理，我们要解决的问题到底是什么？ 对于举棋不定的场景，要多了解一些优秀付费产品，看它们的设计思路、做法是什么。先横向扩散一下，看其他类似方案怎么做； 调研产品时，要有产出目标（调研这个产品，你要得到什么信息？），要找优秀的产品，而不是三方小众的产品； 做事情要横着对比看，例如：参考竞争对手是怎么做的（国际化、市场、传播、技术等等），不要上来就自己干； 用户至上：用户是否需要这个功能？而不是内部 YY； 多看、发散思路多想； 偶尔要思考更大的面，比如发展方向。产品、项目属于细节； 需要理解与明白客户的问题，要让客户“爽”，要成为最懂用户问题的人，要帮助用户想问题，用户想不到的你要能想到。 调研产品方式 用户反馈 我们自己的理解 竞争对手 竞品：如调研可观测性产品（APM）：Datadog、New Relic 等专业的可观测性公司 公有云 项目 按优先级做事，而不是难易程度；分清楚轻重缓急； 要能够主动、提前反馈问题，而不是任务截止时才汇报。 发现任务不合理时，需要即使调整（计划一定赶不上变化，大胆一些，及时反馈）； 产品优先，其它靠边 -&amp;gt; 企业软件中，产品决定效率，技术只是手段； 定制任务时，要有主线任务、要可量化（O、KR）； 把大任务拆解成一个一个小任务，再定时间、何时执行； 与不同客户沟通时，要准备不同的 PPT（最好知道客户想了解的问题是什么，而不是重复他们已经知道的）； 重要且紧急、重要不紧急、不重要紧急、不重要不紧急； 运营本质是资源置换。 其它 为什么社区可以发展这么快这么好？希望有更多高质量的贡献者（个人、企业）。 关键字：开源、贡献者、社区、产品质量。 Case &amp;amp; solutions 根据每一次案例、一定要有解决方案：1.2.3。 哪些时刻，你觉得这件事儿能成？1. 顶级项目； 2. 贡献者可以持续贡献。 带着问题来，思路非常快。提问时，问题要想清楚。 开源为依托的公司。开源是牌，手里要有很多牌。</description></item><item><title>API Gateway in Microservices</title><link>https://juzhiyuan.me/posts/api-gateway-in-microservices/</link><pubDate>Mon, 22 Mar 2021 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/api-gateway-in-microservices/</guid><description>API-Gateway-in-Microservices.pdf</description></item><item><title>开源的魅力</title><link>https://juzhiyuan.me/posts/why-i-love-open-source/</link><pubDate>Mon, 22 Mar 2021 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/why-i-love-open-source/</guid><description/></item><item><title>开源的魅力 - 以 Apache APISIX 为例</title><link>https://juzhiyuan.me/posts/the-appeal-of-opensource-2/</link><pubDate>Mon, 22 Mar 2021 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/the-appeal-of-opensource-2/</guid><description/></item><item><title>碎碎念 - 0101</title><link>https://juzhiyuan.me/posts/ssn-0101/</link><pubDate>Thu, 31 Dec 2020 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/ssn-0101/</guid><description> 列出可以实行的，有收益的事情：今年、3 年、5 年、10 年； 列出年度计划，月度计划，季度计划； 任务再多，梳理清楚，方向不能乱； 与用户打成一片； 制定存钱计划，制定额度； 房子； 开会时，谨慎评估会议时间，避免 20 分钟、30 分钟的说法，适当延长； 计划安排：零碎的事情放在一起处理，需要大段时间的事情放在一起（分门别类）。 确定计划时，应当由阶段目标到实现它的具体路径，如果直接设置零碎的实现细节任务，将会有不踏实、它稳定的心理感觉，说到底是不清晰。因此，应当先有某个阶段的几个大计划，再有小任务。 放空自己，放空手头的任务，想一下打算学什么新技能？去做。 提前一周安排下个月的详细计划，避免下个月焦虑。 成为竞品的忠实用户，学习产品。 已安排任务优先，其它次之。 知道：什么是琐碎的事情、是什么主要的事情。 日历确定后，尽可能严格按照日程安排执行，如果实际时间超时，那么根据优先级调整进度。 不要浮躁，事情一件一件做好。 要寻找竞争最小、机会最大的领域。高手首先是选择不竞争。因为互联网的巨大规模和幂律分布，每一个细微需求的满足者都数以千万计，如果你在追逐一种趋势，你就已经失败了。 年计划、季度计划、月计划、周计划、日计划。 做最重要的事情。 把琐碎的事情，交给其他人专门处理。给自己留出思考、调研的时间。买别人的时间，做自己想做的事情。 用魔法打败魔法。 COO。 售前工程师； 张口能讲出产品，特性、作用、怎么做等。 学习客户、合作伙伴团队架构、分工、做事方法。</description></item><item><title>从 0 到 1：Apache APISIX 的开源和商业化之路</title><link>https://juzhiyuan.me/posts/apache-apisix-0-1/</link><pubDate>Mon, 30 Nov 2020 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/apache-apisix-0-1/</guid><description>请观看视频：https://www.bilibili.com/video/BV1WK411V7VW/</description></item><item><title>不再孤独</title><link>https://juzhiyuan.me/posts/not-lonely/</link><pubDate>Tue, 03 Nov 2020 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/not-lonely/</guid><description>孤独，是这 3 个月来，我听到次数最多的一个词。
+得益于灵活的工作时间，我有机会面对面、去各地拜访朋友们。在聊天过程中，不止一次地注意到、那流露出的喜悦，彷佛这一切，是那么弥足珍贵。
+— “在大都市中，也会孤独？”— “诺大的地方，繁华与自己无关，小小的自己，终究会孤独。。”
+通过占用自己绝大部分时间“做”事情、而避免“想”事情，是一种长远看不妥，但却立马见效的方法。但它是短命、不可持续的，我们始终会不经意地陷入沉思，倘若处理不当，将又会陷入孤独，从而进入孤独、工作、孤独的恶性循环。
+与多年的老朋友聊聊天，大胆一些！不要因为许久不联系而觉得生疏，关系是需要用心维护的。
+去学习一门手艺，让自己开心起来！放下优劣之攀比，轻松一下，别忘记，我们的目的是快乐。
+大步走出去，去拥抱自然！静下心，细细品味不断丰富的生活所产生的美。
+很庆幸，自己有诸多朋友，可以聊得来、玩儿的来。每去一座城市，会下意识地将朋友们聚集到一起，即使 TA 们之前互不认识，但因为自己而变为朋友，减少了孤独的可能，于我于 TA 都是一件幸福的事情，我享受这种感觉。</description></item><item><title>From Web Engineer to Apache APISIX PMC</title><link>https://juzhiyuan.me/posts/from-web-engineer-to-apache-apisix-pmc/</link><pubDate>Mon, 28 Sep 2020 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/from-web-engineer-to-apache-apisix-pmc/</guid><description>ApacheCon@Home 2020: https://www.bilibili.com/video/BV1oZ4y1V7Zi/
+Hello, I&amp;rsquo;m Zhiyuan Ju from API7.ai, and I&amp;rsquo;m a member of Apache APISIX PMC, a high-performance open-source gateway project. I&amp;rsquo;m a member of Apache APISIX PMC, a high-performance open-source gateway project. Tributary is an open-source infrastructure software startup, and this open-source software refers to Apache APISIX.
+In this session, I will share my story from being a web engineer to continue participating in open source projects and encourage more people to know and dare to participate in open source projects by describing what I have gained and felt from participating in open source projects.</description></item><item><title>从 Web 工程师到 Apache APISIX PMC</title><link>https://juzhiyuan.me/posts/from-web-engineer-to-apache-apisix-pmc.zh/</link><pubDate>Mon, 28 Sep 2020 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/from-web-engineer-to-apache-apisix-pmc.zh/</guid><description>ApacheCon@Home 2020 中文主题视频：https://www.bilibili.com/video/BV1oZ4y1V7Zi/
+各位好，我是琚致远，来自「支流科技」，是高性能开源网关项目 Apache APISIX PMC 成员。支流科技是一家开源基础软件创业公司，这里开源软件便是指 Apache APISIX。
+本次会议，我会与各位分享自己从一名 Web 工程师到持续参与开源项目的故事，通过叙述自己参与开源项目的收获与感想，以此鼓励更多人认识开源项目、敢于参与开源项目。
+在介绍参与开源项目感想之前，我想先分享自己学习 Web 的经历。
+2015 年高考结束后，由于对 Web 研发颇有兴趣，因此通过搜索引擎查询并学习与之相关的教程。过去 5 年，我的 Web 学习可分为三个阶段，首先是茫然、不知所措。我不知道为什么页面会被渲染？编写好的页面如何被别人看到？在入校后没多久，很幸运地接到了第一个项目：帮学校学生处开发一套内容管理系统。那时的我只会做一些基本页面罢了，如何动态渲染内容、如何制作自适应页面等新问题接踵而来，当时圈子太小、身边没人做这些事儿，我只能求助于搜索引擎！通过不断地查询、尝试，尽管踩坑无数，但最终完成了本项目，并且实践了所学内容，据说校内对该站点整体评价高。
+在尝到「项目驱动、亲手实践」带来的甜处后，我便开始寻找新的项目，幸运的是，第一个项目给我带来了一定的知名度，大二、大三两年便在做各种类型的项目、极大地拓宽了自己的技术栈。这是我学习 Web 的第二个阶段。
+第三个阶段是在大四，由于是自学 Web 技术，因此绕了许多弯路、对 Web 技术也没有成体系的学习，重复地做外包项目虽然可以带来暂时性的收入，但不利于个人技术成长。偶然的一次思考，让我意识到在开发过程中使用到的开源库代码质量高、协作流程规范，这正是我所需要学习的！因此毅然把大部分时间投入到学习开源项目代码、关注开源社区动态中。
+那么在这两年参与开源项目的过程中，自己收获了什么呢？
+首先是时间。参与开源项目是一件富有创造性与想象力的事情，它需要通过不断地思考、讨论后，才能做决定，因此这需要足够的时间。幸运的是，在我们支流科技，大家可以灵活地安排工作与生活。我选择在有灵感的时候高效工作，在需要休息或者其它事情时，可以没有负担地随时去做。
+其次，参与开源项目扩充了我的朋友圈。每天但凡坐在电脑前，一定会去刷蛮久的 GitHub，去查看有什么好玩的项目？自己所关注的项目有什么动态？对于感兴趣的项目，我会查看其作者相关信息（博客、Twitter、GitHub 活跃项目），不断发现优秀的独立贡献者！于是自己通过贡献代码或者其它方式，与作者不断互动着便熟悉了。
+此外，因为热爱开源，我会主动关注并活跃于开源社区。在大一那年了解到了一个非盈利性的、在线教授 Web 编程的平台 freeCodeCamp，帮助全世界人们免费学习编程为使命，自己也积极的成为其中一名贡献者、协助维护平台建设。因为 freeCodeCamp 在国内有多个城市社群，我通过参与线下活动也结实了许许多多志趣相同的小伙伴们！
+令我惊喜的是，随着自己的“朋友圈”逐渐扩大，以及在线下会议练出的不恐惧社交的性格，自己也以志愿者的身份加入到了「津津乐道播客」团队！大学时自己便是「津津乐道」的听众，它是由各领域大牛联手制作的高质量、中文播客，目前月活听友超过百万。在加入团队后，与多位早已耳闻的达人拉近了距离！
+另一件我所收获到的，便是技能。
+在参与开源项目的过程中，我会着重注意项目结构、代码规范，以及 Issue 或 PR 在聊什么、做什么、怎么做。以 Code Review 为例，我会关心这段逻辑在做什么？贡献者为什么要这么做？如果是我，我该怎么做？对于不清楚的地方，我将追加自己的评论，作者也会在某个时间回复自己的问题。有时自己想错了，通过作者的解答，使自己逻辑能力更加严谨；有时作者做法不妥，他便可能接受我的提案，并告诉你：Good catch！Thanks！！自己便是在这种你一句、我一句的讨论中，提升了专业技能。
+那么对于没有参与过开源项目但又感兴趣的小伙伴而言，该如何参与进来呢？
+通过贡献代码便是一种常见的、参与开源项目的方式。在自己研发过程中会用到许多开源项目库，不时会遇到实际效果与文档描述不一致的情况，若确定是 BUG，那除了通过等待别人修正之外，自己也可以尝试定位问题、解决问题并提交 PR。
+但参与开源项目又不止是贡献代码，以 Apache APISIX 为例。Apache APISIX 作为高性能开源网关项目，功能丰富，又由于不断新增的贡献者推动着项目快速迭代，这就造成了有时文档与代码不同步的情况，此时我们便可以尝试提交 Issue、确定问题，最后提交 PR 以修正问题，这便是一次开源项目贡献。除此之外，文档错别字、语句描述不通顺、多语言（国际化）需求等问题，各位都可以尝试参与进来，活跃的贡献者们将推动项目更好地发展。
+以上便是我本次的分享，通过叙述自己参与开源项目的经历与收获，希望能给还在观望开源项目的伙伴们带来启发，并鼓励更多人加入到开源项目中！
+接下来是 Q&amp;amp;A 环节，各位是否有想要提问的？</description></item><item><title>今天是 6 月 8 日，周一</title><link>https://juzhiyuan.me/posts/2020-06-08/</link><pubDate>Sun, 07 Jun 2020 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/2020-06-08/</guid><description>嗨，许久不见 :)
+过去这段时间，我们共同经历了许多负面的事情，但是否会影响到自己，取决于自己是否主动地选择接受它们。
+我取关了所有公众号，这和我不喜欢公众号的 Feed 机制有关，取而代之的，订阅了相关账号的 RSS 源。
+在 Twitter 中，我也刻意地不断取关，因为自己的确没有太多精力。筛选方法也很简单：遇到疯狂转推、政治相关、负面情绪较多的，统统取关。
+4 月末，从 @某某 离开了，实话实说，团队十分包容，也从 xx 这里学习到并提升了自己的专业技能、了解到自己不曾知道的学习源。
+整个 4 月是纠结的，在 团队的情 和 全力做开源 之间摆动，尽管最终还是离开了但我还是希望不会影响到与团队的情谊。
+五一后加入到了新的团队，同时把 @孙同学 也邀过来一起做这件事。没有了 xx 的引导，自己需要考虑、主动更多。
+新团队从一开始就是远程的，我们在 Teambition 拆分好需求、确定里程碑后，剩下的便是自己安排了。
+五月份的工作体验很棒，优势在于在不逾期的前提下，自己可以灵活决定工作时间，于我没有 10、6、5 的约束，小伙伴们可能会发现有时早上 5 点、夜里 12 点、周末我也在活跃。 当然，自己还得持续考虑其 TA 小伙伴的工作时间段，避免影响到其作息。
+远程的缺点也是有的，有些小伙伴可能不适应这种调调 🤣 其实，远程、异步就好，同步的事情定时协同处理即可。
+5 月份还有一件纠结的事是：70 年后人不在了，云上的数据怎么办？想来想去后。 还是托给 GitHub 吧，虽然它也可能消失但是想不到更合适的服务了。
+月末疫情缓解许多，我便来找 @王老师 啦！
+6 月 8 日，写于去南阳的高速上。</description></item><item><title>记在新团队首次协作开发后</title><link>https://juzhiyuan.me/posts/take-part-in-a-new-team/</link><pubDate>Sat, 06 Jun 2020 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/take-part-in-a-new-team/</guid><description>5 月份加入了新的团队，全力为开源网关 APISIX 开发新的 Dashboard。「路由」模块属于 API 网关核心功能，它包含了：路由列表、创建路由、更新路由、删除路由四个部分，如何让该模块易用、表现准确成为整个 5 月份首要解决的问题。
+由于是初创团队，我们尚且没有懂网关的职业产品经理与设计师，因此初创成员们通过频繁地讨论较明确地定了第一版功能。通过这篇博文，记录下来在第一版开发期间遇到的、想到的问题。
+产品 首先，作为中后台应用，我们选择蚂蚁金服体验部出品的 Ant Design Pro 作为脚手架与 UI 组件库，暂时不需要职业设计师介入。
+其次，开发前确认清楚需求是至关重要的，由于前端开发者对 API 网关了解不深入，又没有足够清晰的产品原型，仅靠 GitHub 的文档是远远不够的，因此需要做 3 件事：
+体验 AWS、腾讯云、阿里云 为代表的 API 网关服务； 及时地与熟悉 API 网关业务的开发者沟通，以 Route 为例，在确保对其流程清楚后，再动手开发。必要时，前端同学可充当产品角色，绘制流程图或制作简易版原型。 开发过程中遇到不确定的地方，一定要及时确认后再继续进行。 研发 在研发过程中，我认为编写代码是为了验证自己所学技能程度的，「想」比「写」应该更多一些，在考虑可扩展性的同时也请避免过度设计。
+以 Route 创建/编辑 为例，它是由 请求基本信息配置、后端服务配置、插件增强配置 三部分构成的，显然地，我们使用步骤条便可以将这三部分串起来，此时会想到，可以增加预览页，它承担两个功能：
+汇总展示每个步骤页的数据，让用户知道自己最终提交了什么内容； 将每个步骤的数据整理成 API 所需要的格式。 在操作过程中涉及到了数据流向的问题，相比于让每个步骤页独立保存页面状态、最终提交时通过一些方法进行汇总，不如为「步骤页们」增加父组件来管理状态。后者优势有：
+步骤页只负责 UI 展示，在适当场景下可被复用； 由父组件统一管理数据状态，清晰明了，也便于步骤页之间的状态共享。 如上图所示，父组件作为状态源，将状态按需、单向传递给步骤页，在需要更新状态时，由子组件调用 onChange 方法将父组件中的状态更新。
+Ant Design Pro 默认使用 dva 作为状态管理方案，但我选择使用 useState 方法在父组件中为每个步骤页创建 state 便解决了整个流程状态管理的问题。</description></item><item><title>一个像夏天一个像秋天</title><link>https://juzhiyuan.me/posts/summer-and-fall/</link><pubDate>Mon, 25 Nov 2019 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/summer-and-fall/</guid><description>我青睐于把想法亦或经历过的事情，用文字记录下来。短则「说说」、「朋友圈」；长则「博客」，从最初一周一篇到一月一篇，又到这次两月一篇，偶尔把时间维度拉长一些、回过头来看，或许会发现更有意思的事情。过去两个月时间里，我经常问自己想要什么？这不是迷茫，而是希望自己不辜负这有限的时间。随着自己的想法被不断推翻，结论也愈加清晰：守正出奇但克制欲望，并做自己想要做的事情。
+在 10 月份，我们的开源网关项目 APISIX 加入了 Apache 软件基金会进行孵化，自己目前主要负责 Dashboard 维护与代码审查。很开心有了自己的 Apache ID，但同时也担上了一份责任。在加入到基金会后，自己从 Dashboard 开发者变更为维护者，负责审查别人的代码、处理新的需求。经历了 The Apache Way：所有讨论基于邮件、通过投票决定做什么事情、社区优先于代码等。总之，这是值得自己投入时间与精力做的事情。
+腾讯 We 科学周
+奥林匹克公园
+月初在京有一场「腾讯 We 科学周」活动，我便带弟弟妹妹参加了第一天的大约 180 分钟的「科学」主题活动。起初家人不大支持带 TA 们去，一是参加费用不算低（1 万左右），二是 TA 们还在上中学，不一定能接受活动内容。那我就打一个赌好了：费用由我全部承担，至于活动内容，如果 TA 们能有一点启发，那这次参会是值得的；如果没有，那就权当做我与 TA 们聊天谈心的好机会。令我欣慰的是，活动中部分内容，如可以自主行驶的自行车以及地球生态时，孩子们听得还是十分入迷的，TA 们受到了一定的正向启发 🙂 在会后，也会引导 TA 们搜索了解活动中自己所感兴趣的部分。
+除了参加活动，我也带 TA 们去转天安门，平常在视频或课本中摸不着的内容现在可以由 TA 们亲自近距离接触啦！偶尔 TA 们会提到这座建筑在课本中讲过、并能尝试说些什么，这正是我所希望的。
+与孩子们相处一整天后，我与 TA 们聊了下发现的一些问题，如在活动中需要拍照时，注意不要影响后面的观众；在戴着同声传译设备时，注意自己尽管轻声说话但音调也会提高、影响 TA 人；在调整高铁座椅时，注意查看座椅后背小桌板是否有被使用等。
+我希望 TA 们知道学习除了考试之外，还可以做更多不可思议的事情；也希望 TA 们除了知道学习，也应当有同理心。
+荔香公园
+荔香公园
+没过多久便搬了家，楼下便是荔香公园，这是我来深圳前便想要住的地方。它给我带来了更多可能以及满满的幸福感，这才是生活该有的样子~前些天见了王老师，我崇敬热爱自己工作的人。
+我曾不远千里奔赴威尼斯，只为追求我心人—-露丝，她用如水般清澈的目光，看着眼前高达三百二十五英尺的圣马可教堂，却不曾把眼神给予我哪怕一秒，我徒手攀登了那座高大教堂，以我的敏捷身手，很快就站在了教堂顶端，此前对我并不在意的露丝，却因目睹了我矫健伸手和果敢，在我被警察抓走的那一刻，为我倾心，我们因攀登结缘。 《攀登者》
+总之，事情在朝着自己想要的方向发展。</description></item><item><title>九月</title><link>https://juzhiyuan.me/posts/september/</link><pubDate>Mon, 16 Sep 2019 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/september/</guid><description>已有一月有余未更新订阅号，在此回顾下这段时间所发生的事情 🙂
+开发 WordPress 插件 8 月初，自己尝试学习开发了一款 WordPress 插件，其主要作用是：上传附件至三方存储服务，并启用 CDN 加速资源访问。
+开发该插件原因有二：
+存在相关需求：自己希望附件直接存储至三方服务，而非通过 CDN 回源访问服务器资源； 学习开发 WordPress 插件； 较详细地开发过程可阅读博文 https://blog.shaoyaoju.org/2019/08/07/wordpress-oss/
+君君生日 和王老师相识 4 年了~
+2016 年摄于西安
+今年毕业后，她暂时回到南阳教书，学校任务重、假期少，自己可以、也需要理解她。有时下面这首词便不自觉冒出来：
+我住长江头，君住长江尾。 日日思君不见君，共饮长江水。此水几时休，此恨何时已。只愿君心似我心，定不负相思意。
+她是喜欢这份工作的，例如：她会每天牺牲自己午休时间主动辅导学生，又或者在没课时做各种题目，甚至在我从深圳飞南阳找她时也会时刻抱着作业、挨个批改，以便尽早反馈到学生那里，这像极了大学时的自己：随时随地背着电脑、时刻可以“工作”。
+认真的人儿有她独特、漂亮的一面，这是极富有吸引力的。倘若让我祝福她什么，我依然希望她可以开心勇敢地去做自己喜欢的事情~
+阅读与学习 每天上下班，在地铁中停留的 40 分钟便成了看书的好时间！
+这是第二次看《穆斯林的葬礼》，该书讲述了北京一个回族家庭六十余年间的兴衰历史，用中国传统的两个意象玉和月代表韩子奇和韩新月，穿插记叙前后两代人的身世，并穿插地为读者介绍了回教礼节及回族习俗。每每阅读，都将自己置身于小说情节之中，相较于第一次，这次能更真实地体会到各主人公在不同场景下心理状态变化，令人回味无穷。
+除此之外，也会用这段时间学习《极客时间》中的专栏。到目前为止共订阅了 26 门专栏，主要涉及产品与研发，从最初仅仅单纯地看一遍即可，到现在的、学习每篇文章后会查询自己不清楚的内容，以便加深理解。
+OpenResty APISIX 8 月份趁着周末用了一些时间帮助 iResty 为其下项目 APISIX 开发了 Dashboard，自己也以 iResty APISIX Committer 的身份加入了 APISIX Team。
+海口 趁着中秋假期，自己独自飞到海南找大学朋友 @琨琨 “蹭吃蹭喝”。他一家子人都是极热情的，吃、住、行安排的妥妥当当。
+这次只去了海口。
+至于玩儿，从冯小刚电影公社到火山口，又从海边转到省博物馆~
+至于吃，海南粉抱罗粉腌面陵水酸粉东就鸭文昌鸡三杯鸡地瓜菜陈皮炸排骨椰子饭椰子冻以及清补凉！无鸡不成宴！！
+冯小刚电影公社 街景</description></item><item><title>在 Map 遍历中使用 async 函数</title><link>https://juzhiyuan.me/posts/async-in-map/</link><pubDate>Sat, 31 Aug 2019 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/async-in-map/</guid><description>有时需要使用 Sleep 函数阻塞代码一段时间，该函数常规实现与调用方式如下：
+// Sleep Function const sleep = (ms) =&amp;gt; new Promise((resolve) =&amp;gt; setTimeout(resolve, ms))( // Usage async () =&amp;gt; { await sleep(3000); } ); 但在 Array.prototype.map 中使用时，却有着错误的表现，具体如下：
+// code snippet 1 [1, 2].map(async (num) =&amp;gt; { console.log(&amp;#34;Loop Start&amp;#34;); console.log(num); await sleep(3000); console.log(&amp;#34;Loop End&amp;#34;); }); // expected output // Loop Start // 1 // Wait for about 3s // Loop End // Loop Start // 2 // Wait for about 3s // Loop End // Actual output // Loop Start // 1 // Loop Start // 2 // Wait for about 3s // Loop End // Loop End 我们期望的是，在每一次循环时，暂停约 3s 钟时间后再继续执行；但实际表现是：每当执行</description></item><item><title>聊聊 EventEmitter</title><link>https://juzhiyuan.me/posts/event-emitter/</link><pubDate>Sat, 31 Aug 2019 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/event-emitter/</guid><description>场景 存在如下场景：当音频播放器分别处于加载资源、播放音频、播放结束等不同状态时，通过某种机制执行不同操作（如更新 UI 状态）。即通过监听某些对象，当其状态发生变化时，触发不同事件。
+上述场景可通过 EventEmitter 实现，该方法至少可对应两种模式：观察者模式与发布/订阅模式。我们先来了解这两种模式：
+观察者模式 观察者模式（Observer Pattern）定义了 1:n 关系，使 n 个观察者对象监听某个被观察者对象（主题对象），当被观察者对象状态发生变化时，它将主动通知所有观察者对象这个消息，不同的观察者对象将产生不同动作。
+这种行为型模式关注的是观察者与被观察者之间的通讯，发布/订阅模式由它衍生而来。
+代码实现 class Subject { constructor() { this.observers = []; } add(observer) { this.observers.push(observer); } notify(...args) { this.observers.forEach((observer) =&amp;gt; observer.update(...args)); } } class Observer { update(...args) { console.log(...args); } } 使用方式 // 创建 2 个观察者 observer1、observer2 const observer1 = new Observer(); const observer2 = new Observer(); // 创建 1 个目标 subject const subject = new Subject(); // 目标 subject 主动添加 2 个观察者，建立 subject 与 observer1、observer2 依赖关系 subject.</description></item><item><title>深圳一月有余</title><link>https://juzhiyuan.me/posts/shenzhen-on-january/</link><pubDate>Mon, 26 Aug 2019 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/shenzhen-on-january/</guid><description>在深圳生活与工作已一月有余，在此期间学到了四件事：
+Done is better than perfect 预估排期应考虑多重因素 说到做到，让对方信任自己 分析清楚再动手 有时候针对某些需求，需求方并不要求尽善尽美，而是希望快速完成最小可用版本并持续迭代，至于样式以及交互是否优秀，需求方在早期阶段并不关心。否则在时间比较紧的情况下，自作聪明，用了大量时间去处理边际问题，这在需求方看来是愚蠢的，因此 Done is better than perfect。
+同样的，在进行需求排期时，不能仅考虑自己的开发时间。加入团队后一周，自己负责开发小程序的一个独立功能模块，在排期时，尽管 xx 提醒我可以多加一些时间，但我依旧填写了 5 天。
+我觉得这个时间够用了。过去独立开发中大型项目，使用 JS 栈可以较好的满足大部分需求，前后端通吃，极少延期。但是加入团队后，完成一个项目需要多方配合：代码审查、前后端联调、UI 检查等。
+于是，在实际处理该需求时，周一周二用了接近两天时间把上周的遗留问题处理掉了，周三开始新功能开发，到了第二周的周二完成了最小可用版本，但该版本代码耦合，不易管理且有逻辑问题；除此之外，还需要 xx 进行代码审查，在修正某些语法、风格以及逻辑上，用了一定的不太乐观的时间；最后，在与服务端联调时，接口若有异常，则服务端就需要时间进行修正。
+显而易见的，最终从开发到上线的时间远大于 5 天。如果完不成，那就不要答应，否则给了对方预期，结果却没完成，对方心理落差会增大，久而久之对方如何信任自己呢？
+在该功能上线后，由于核心逻辑不清晰、代码过于耦合，我便在 xx 的建议下为核心功能整理了一份时序图。果真，参考时序图重构代码思路异常清晰、重构非常快速。
+另外还有两点感悟：
+1、在有限的时间内做有效率的事情；
+2、唯手熟尔；
+在工作中偶尔遇到过解决某些问题时状态不佳却又很想搞定的情况，尽管知道可能休息下再去解决，或许答案就在眼前，但自己偏偏执意要搞定它，结果用了很多时间却依旧无果。
+在 xx 审查代码时，会给出一些思路或纠正某些问题，其中有些技巧或思路一看就知道是怎么回事，但在自己开发过程中却没想到。无他，唯手熟尔。
+上方内容是在回郑州的飞机上整理的，离家一月有余，也该回去看看了。有意思的是，大学四年期间，尽管回家只需 30 分钟，但通常两三个月也没想过要回去。现在离家在外，却暗暗地下决心无论再忙，也要趁着周末定期回去。幸运的是，团队提供一定时长的远程工作机会，这样就可以多待一些时日了。
+当然，远程的前提是自己要取得团队的信任。方法也很纯粹：言而有信、说到做到，用实力证明自己，做一个尽可能靠谱的人。</description></item><item><title>freeCodeCamp 访谈丨琚致远：优秀 Web 全栈工程师的成长之路</title><link>https://juzhiyuan.me/posts/freecodecamp-developer-talk.zh/</link><pubDate>Wed, 10 Jul 2019 16:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/freecodecamp-developer-talk.zh/</guid><description>原文：https://chinese.freecodecamp.org/news/fcc-devtalk-ju-zhi-yuan-growth-path-of-an-excellent-full-stack-web-developer/
+本期嘉宾致远，是一位 97 年的小朋友。叫他小朋友是因为他的年纪比我小好几岁，记得之前我们合影的时候他总是有点腼腆地抿着嘴哈哈~自我们 2017 年认识以来，这位小极客的独立、坚韧、认真的品质，始终对世界保持好奇与不断探索的态度，都给我留下深刻的印象，也启发我以开放包容的心态思考自己工作的价值。
+本文标题取自致远的自我介绍 “正在努力成为一名优秀的 Web 全栈工程师”——我知道，“全栈工程师” 绝不会只是一个定义他的人生的标签，而会是帮助他不断拓宽人生边界的能量之源。文章里聊到他小学时开始接触电脑，初中时自学编程的有趣经历，也聊到他大学时的项目经历，在阿里第五面时因学历不够被拒，而后尝试远程工作的体验……每一个问题，致远都回答得很认真，相信大家读起来也会感受到这名小青年对生活和工作的用心:)
+这个夏天，致远就要大学毕业了。当被问到对于未来的期待时，他说 “希望自己可以踏踏实实、继续做自己喜欢的事情，在此前提下，能够鼓励、帮助身边人自我实现”。很感恩我们拥有致远这样的年轻的朋友们，他们在化思考为行动，为我们的社区注入活力，让这个世界变得更好。我们也很希望刚刚结束高考正在憧憬大学生活的孩子们能够读到这篇文章，相信对于他们 “如何度过大学时光” 也会有一定的启发意义吧。
+淡泊明志，宁静致远，愿致远们始终年轻。
+1、简要介绍一下自己吧。Hi 大家好，我是琚致远，即将本科毕业。我喜欢交朋友，热衷于 Web 技术，正在努力成为一名优秀的 Web 全栈工程师。
+2、可以讲讲你的童年生活吗？我的童年和绝大多数人的童年没有什么不同，有家长的严格管教，有自己的不安与顽皮，有探知的好奇心和探索的破坏力。唯一不同的，或许是我对一件事的好奇与坚持比别人久了那么一点。
+对每一个孩子来说，家庭的影响力都是排在首位的，我也不例外。在别人眼中我也算是出身于书香门第，这对童年的我来说还是有一定的压力的，毕竟我的成绩不能惨淡。但幸运的是家人也开明地在我的爱好和思想上给予了更多的自由。我的母亲是小学教师，教书育人，不仅教课，也弹的一手好琴，写的一手好字。小时候，母亲在弹琴和阅读上对我也是下了大功夫的，可惜我志不在此，也就荒废了，现在看来，当时的自己太年轻。
+孩子的爱好总是广泛的，在家人的影响下我喜欢打乒乓球、陪爷爷杀两局象棋。也和同龄人一样喜欢周杰伦和林俊杰的音乐，打小喜欢看 Disney 等工作室出品的动画以及诸如「Harry Potter」、「The Lord Of The Rings」等奇幻系列电影。小男孩嘛，总是沉迷于拆卸各种电子产品，从遥控车到电脑电视，拆着拆着就多了螺丝，哈哈，破坏力也是很强了。关于电脑，家里书柜中各种电脑书籍就是我的启蒙教材了，撺掇着撺掇着就发现更有意思了，深陷其中。
+我的童年影响并造就了我为人处世的方法以及平时思考的问题，它是磕磕绊绊的成长过程中的生成物，无论好坏，无关成败，都密切关系着我的未来。
+摄于家里菜地
+3、你是什么时候开始学习编程的？在这个过程中遇到什么困难，是怎么解决的？对于初学编程的小伙伴你有什么建议呢？因为家人工作单位会用到电脑，我便打小接触到了计算机基本操作相关的图书，这算是我的启蒙读物了。
+在小学三年级我拥有了自己的第一台电脑，是叔叔在中关村组装的。当时用电脑纯粹用于娱乐：看《大长今》、玩《魔兽争霸》以及各种 Flash 小游戏。
+在玩儿 Flash 小游戏时，就想到自己可否也做一个呢？后来，我在县城书店找到一本厚厚的《Flash 制作从入门到精通》，但是妈妈觉得没用便拒绝给我买，为此我一路生闷气，回到家也不说话，最后妈妈还是迫于无奈又带着我买了一本。随后的很长一段时间里，我便在电脑上按照教程、一步一步跟着做，并不时地鼓捣出一些小玩意儿。
+初中自己比较“活跃”、到处乱窜，有天突然看到校长在办公室手动搜索并整理几十份各个班级的 Excel 表，我便想：能否做一个程序帮助他提高办公效率？于是在初二升初三那年暑假，自己用了接近两个月时间系统地学习了 Visual Basic 编程语言，并使用它开发了一套学生信息管理系统。打开该系统并登陆后，即可进行学生查询、学生编辑、报表生成与打印等功能。
+在 08 年暑假，我的 QQ 号码被盗取了，我就想自己是否可以盗回来？然后便迷上了所谓的「黑客」技术。从最开始下载各种木马工具到后来开始翻看、学习某些工具源码，再到后来使用社会工程学手段「恶搞」我的同桌：在过年时和他打赌能盗取他的 QQ 号，他不信，2 个小时后便把他账户的密保、安全手机全部解绑。
+年少轻狂的我也曾渗透过中学教务处，改了考试成绩，还特别开心的和妈妈说：我能进尖子班了！妈妈听完后便训了我一顿。自此我知道凭技术手段改成绩是不对的，便逐渐向白帽子靠拢。
+学习 Web 安全的历程中，最大的一次渗透经历是中学时曾渗透过某省教育厅，并可以访问到大量敏感数据，但我没有脱库、而是找到管理员并发送了一封描述具体漏洞问题的邮件。
+进入大学后，我想到如果自己清楚 Web 系统是如何构建的，那定将有助于我学习 Web 渗透技术。于是我通过搜索引擎查询大量资料并自己在本地模拟示例，用了将近两周的时间才初步了解传统 Web 系统是如何搭建并运作的。紧接着，我及其幸运的为学校、政府以及部分大小企业定制了一系列 Web 系统。</description></item><item><title>The growth path of a full-stack engineer</title><link>https://juzhiyuan.me/posts/freecodecamp-developer-talk/</link><pubDate>Wed, 10 Jul 2019 16:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/freecodecamp-developer-talk/</guid><description>Original: https://chinese.freecodecamp.org/news/fcc-devtalk-ju-zhi-yuan-growth-path-of-an-excellent-full-stack-web-developer/
+This time, our guest, Zhiyuan, is a 97-year-old kid. Since we met in 2017, I&amp;rsquo;ve been impressed by this little geek&amp;rsquo;s independence, tenacity, seriousness, and attitude of always being curious and exploring the world, which also inspires me to think about the value of my work with an open and inclusive mind.
+The title of this article is taken from Zhiyuan&amp;rsquo;s self-introduction, &amp;ldquo;Working hard to become a good Web full-stack engineer&amp;rdquo; - I know that &amp;ldquo;full-stack engineer&amp;rdquo; will never be just a label that defines his I know that &amp;ldquo;full-stack engineer&amp;rdquo; is not just a label that defines his life, but a source of energy that will help him to keep widening the boundaries of his life.</description></item><item><title>2011 年的一封邮件</title><link>https://juzhiyuan.me/posts/mail-from-2011/</link><pubDate>Thu, 23 May 2019 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/mail-from-2011/</guid><description>昨日凌晨在整理 freeCodeCamp 的 FCC DevTalk 访谈稿，在被问到第一次学习编程是什么时候这个问题时，我突然想到 2011 年 8 月发送的一封邮件。
+初中的自己较“活跃”、喜欢交朋友，某日看到校长在办公室手动搜索并整理几十份各个班级的 Excel 表，于是我便想：能否做一个程序帮助他提高办公效率？
+于是在初二升初三那年暑假，自己用了接近两个月时间系统地学习了 Visual Basic 编程语言，并使用它开发了一套学生信息管理程序。当然，数据迁移也很方便：打开程序并批量导入按照模板整理后的 Excel 数据表，它便可自动处理数据并追加到 Access 数据库。
+现在看来，当初自己无非是组织了必要的界面并实现了数据库的增删改查，技术难度并不高。但是令我印象深刻并值得开心的是：在开发时，我通过绘制并比较了一定数量的原型图，确保用户在使用时是尽可能方便高效的，即我在初中时便考虑到了用户的使用体验。
+安装程序已无法下载，但界面我依然十分清楚地记得：打开程序后将弹出一个登陆框，背景是初中学校图片；登陆后进入一个新的窗口，背景是灰色并带有巨蟹座图样的的卡通形象图；左侧有一个「开始」按钮，鼠标悬停上去将出现一列按照功能划分后的菜单按钮，每一个菜单都对应了一系列具体功能，例如：学生查询、打印报表等。
+至于最后是否被使用，我无从知晓。
+文末邮件内的英文是自己翻译的，现在读起来，我只能笑而不语 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄
+之前在 三件开心的事儿 &amp;amp; 抽奖 中提到 Miya 姐邀请我做一期 FCC DevTalk 访谈，正在完善中，敬请期待 :)
+附邮件截图：</description></item><item><title>纠结许久的事情终于放下了</title><link>https://juzhiyuan.me/posts/free-than-ever/</link><pubDate>Thu, 16 May 2019 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/free-than-ever/</guid><description>能令我纠结的事儿并不多，近期便遇到一件。
+今年年后，很偶然的机会，我和高少星团队（简称 A 团队）有了联系，随后因去深圳办事儿，便借此机会与团队负责人 A 约了时间、进行拜访。随后，我于 3 月底拿到团队聘用信，并约定在 6 月下旬就职，A 还先后两次提到请我不要放鸽子。
+巧的是，之后的一个多月中，另外一位朋友 B 在深圳拉起一支团队，主要从事区块链应用方向。当时我的理解是辅助他做一些开发即可，不过到了近期，事情发展超出了自己的预期：B 多次问我想做什么（或我的定位是什么）且邀请我一块儿带团队，并给出一定股份。我的回复是期望逐渐向产品靠拢，但并没有答应放弃 A 团队。
+B 团队成员技术实力硬、人脉资源广，但我同样知道创业大概率不会一帆风顺。过往外出所见到的、令我印象很深的一件事是：自己不在意的事情，竟然可以作为一份正当高收益工作。因此，我并不畏惧高风险，毕竟于我情况坏到极点也不至于失业、失去保障。工作种类太多了，但我希望尽可能挑选一份自己喜欢的。
+工作回报收益高，那就多尝试、多体验一些可以让自己成长的事情；工作回报收益低，那就控制住自己的欲望，先度过这段低谷期。
+两家团队都足够吸引我，毕竟它们足够自由。我与 B 在大学熟识并曾计划一起创业，现在机会来了，我自然会心动，可放鸽子不应是我该做的选择。
+加入 B，我将得到一定的股份，且我清楚团队成员是相对务实且有实力的，我相信团队未来会发展的相当不错，可与这些长期收益相比，我更在乎的是：我在数月前答应了 A，如若反悔，我便无法心安理得地做事。于 TA 人而言，这只是一份选择；于我而言，这不只是一句承诺，毕竟我更在意人与人之间的情感。
+在这段时间里，我向家人与朋友们咨询过这件事，摘选其中两人回复以作记录：
+两个事情性质不太一样吧，今天说这个更多偏自己创业，原来答应那个更 多是一份工作，看你在这个阶段更渴望哪个，至于你提到的信守承诺，我觉得这个是可以谈的，不是说你一声不吭的不去，而是如果你真的渴望新的机会，你也可以把这个想法跟原来那家公司谈，双方互相谅解，也说不定会有什么新机会。&amp;ndash; 科叔
+我觉得选择行业更重要，决定了上层天花板。建议将两家团队优劣写下来进行比较，同时考虑最坏的打算是否可以接受。我觉得你最大的优势就是你还很年轻，你不用太考虑，现实的一些结婚啊，怀孕啊，成家立业啊，这些问题，所以你可以拿出来两年或者三年时间去赌一赌看。觉得这种时候你没必要自己在那想，你去把两方的情况真的列出来写下来，然后去对比从你获得的现金期权，股权，还有最坏的情况，你把这个东西列出来，然后练一下，自己对比一下，接受一个最坏的情况就可以试试。&amp;ndash; 星佳
+总之，无论 TA 人如何考虑这件事，于我只要守住我的态度并做自己喜欢做的事情就好。时刻注意做事方向并不断调整、付诸行动，其它事情便会自然而然发生。若干年后，我不会因为此时的选择而后悔。
+昨天下午，与双方进行沟通后，自己便释然许多。</description></item><item><title>我在项目开发中产生的感受与想法</title><link>https://juzhiyuan.me/posts/what-i-learn-from-team/</link><pubDate>Thu, 09 May 2019 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/what-i-learn-from-team/</guid><description>大三上学期之前，自己偶尔会接一些 Web 项目来做。最初前后端开发由自己完成，一方面是学习新技术，另一方面自己可以取得更多利润。
+大三下学期之后，对于新项目，自己会逐渐将其分派给身边小伙伴来做，TA 们也需要从 0 学习的过程，我便一步步引导 TA 们来学习，目前有两位小伙伴的开发技能，我是较为满意的。
+在分派项目时，我会与 TA 们沟通清楚具体每一条需求，并定期审计 TA 们的代码、沟通开发进度。通常有三种不能按时完成需求的情况：技术尚未达标、需求不清楚、偷懒。
+因技术问题导致需求未能完成的，我会分析该需求是否可以用一些工具库来协助实现。如果可以，那 TA 就知道原来还可以使用现有工具来完成，但是，这种方法需要注意引导 TA 不能依赖第三方库，否则容易偷懒，最好引导 TA 主动阅览优秀工具库的源码；对于不能用库来协助实现的，那么会先询问 TA 的思路，并与 TA 探讨其优缺点。
+因需求不明确导致无法按时完成的，那需求沟通者负有主要责任，当然，作为开发者也应在不明确需求时，及时询问，避免返工。
+因偷懒导致需求未能完成的，作为管理者需要思考深层次原因，通常有两种情况：对开发无感；因开发周期过长且激励不够、让 TA 看不到路尽头。
+对于前者，这是一个硬性问题，我无法做到鼓励对方去做 TA 不喜欢做的事情，这不可强求。至于后者，我便会偶尔邀请 TA 出来一块吃饭，顺便聊聊项目的事情；又或者对于某些项目采取按周结算的方式，与开发者约定时薪，TA 只需每天将做的事情以及花费时间记录在「石墨文档」中，每周日晚上我会进行结算。但注意，按周结算需要与开发者约定好：记录的时间不应包含因技术学习所花费的时间。
+近期的一个多人协同（3 人）项目即将收尾，在此做一个小结。
+业务需求 沟通清楚需求非常重要，开发者清晰业务逻辑将有效避免返工。前期工作要做足，即确定清楚具体需求，越详细越好；花费一定的时间制作原型图，但一定要尽可能考虑周全，做到开发时不会大改；与开发者沟通清楚，让开发者了解业务。另外，一定要与客户沟通清楚某一个具体版本的需求，减少客户任意修改需求的问题。
+沟通工具 大家起初使用 Slack 作为项目沟通工具，但很快从 Slack 又迁回了微信，或许是甲方主要使用微信群的原因。但使用微信群效率过低，尽管只有 3 人开发，但微信群消息过多以及受到其它微信消息影响，这会导致历史消息很容易被错过。
+之前在远程团队 Team247 时，大家主要通过 Slack 进行交流。因 Slack 可以方便地就着某一个话题进行讨论，所以合理使用它，则在群聊 Channel 中不会看到过于冗长、繁琐的消息。一个问题一个板块 Thread，干净清晰，方便查看。
+代码约束 开发项目时，应统一代码规范、文件组织形式，较方便的方法是使用 VS Code 作为 IDE，并配置 .vscode 文件，这样大家只要使用 VS Code，就无需过多担心代码规范不统一。虽然不同开发者对于 IDE 喜好不一，但我认为大家当前目标是完成这个项目，那么为了提高开发效率，统一使用相同 IDE 也可以理解，不能在单纯考虑个人因素。</description></item><item><title>碎碎念</title><link>https://juzhiyuan.me/posts/2019-05-04/</link><pubDate>Fri, 03 May 2019 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/2019-05-04/</guid><description>五一匆匆过去了，尽管是假期，但也没闲着。 早上睡到自然醒，起来后看公众号或者刷《神秘博士》； 中午饭后睡会儿，（最近一段时间）下午和 王君 出去转悠找相馆，或者准备论文，又或者写代码； 晚上遛弯回来后在工作会儿，然后看会儿书、睡觉。 其实蛮喜欢这种生活调调的，相对而言，比较自由；这种工作方式也很喜欢，心无旁骛地工作，效率会高很多。 同样开心的是，前不久和小伙伴接了一个不错的项目，趁着五一处理的差不多，即将收尾~ 抽个奖吧 :) 抽奖进行中 张裕 冰酒 x 1 - 抽奖助手</description></item><item><title>三件开心的事儿</title><link>https://juzhiyuan.me/posts/happy-may/</link><pubDate>Tue, 30 Apr 2019 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/happy-may/</guid><description>记录三件开心的事。
+1、今天 王君 陪我做了面部清洁、刮痧和洗牙，（除了第一项）许久之前都有想去试一试，但迟迟未行动，或许之前觉得没那么重要吧。
+体验过之后，觉得还不错，甚至可能会上瘾。
+令我印象深刻的是「洗牙」，虽然保证每天刷牙，但难免还是会存在一定的牙结石，建议各位定期洗一次。
+2、晚上 Miya 邀请我做一期 FCC DevTalk 访谈，该访谈邀请了一些有开发背景、有故事的嘉宾，以文字形式进行互动交流。
+自己还是很开心的。毕竟已经很久没有和组织互动了，但是 Miya 竟然还能想起我 ~
+分享两期 DevTalk：
+FCC DevTalk 001 丨柳星：从材料工程师到 Apple 开发者
+FCC DevTalk 002 丨于航：happy coding, happy life
+在我的文字稿整理出来后，我便会分享到这里，希望你能喜欢 :)
+3、下午家人来学校附近玩儿，晚上自己便预定了「融味餐厅」，味道大家都很喜欢。
+来一个抽奖吧，该公众号暂定每两周使用「抽奖助手」发起一次抽奖，算是增添一些乐趣吧~</description></item><item><title>我学习一项技能的方法</title><link>https://juzhiyuan.me/posts/how-to-learn-new-things/</link><pubDate>Mon, 29 Apr 2019 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/how-to-learn-new-things/</guid><description>身边的朋友们一个个都要毕业了，近期有朋友问我：马上毕业、可是考研失利，想找一份 Web 方向的工作，但是大学四年都没有好好学，这该怎么办？
+我的建议是： 首先确定是否真的要做 Web 方向； 接着请教有相关经验的朋友，都需要学习什么技能； 最后用一定的时间规划学习周期，持久地、分阶段性学习。
+于我，在学习（做）一件事情的时候便是按照上面的步骤来的。过程不复杂，但在最后一步，坚持下来的能有多少人？有一个可以支持自己长期做一件事儿的小技巧：尽可能做自己喜欢做的事儿。
+想做一件事情的时候，快速分析一下，觉得可行那就只管去做好了。瞻前顾后可以理解，毕竟这是一次选择，需要用一定时间来考虑。可过于瞻前顾后，觉得这不行那不行，或者在等等，大概率这件事最后也不会去做。况且，就算这件事情最后”失败“了，自己也不会损失太多。相反，我们从这次”失败 / 试错“中可以学到许多，比如：下次不会再做同样的事儿或者同样的事儿不在跳坑。
+另外，在学习从未接触过的领域时，建议自己先摸索一下。如果有必要，那就请教该领域的高手[1]，或许 TA 们一句话就可以点醒你，不过记住：最终还是要靠自己。
+至于这位朋友，他加入这支团队的原因在于：三个月后团队会请一位老师来授课。我对时间十分敏感，于我是绝对不会干等三个月的，不如马上行动起来、开始做这件事。
+三个月学习 Web 技术，勤奋一些，是可以达到一定高度的。不要因为马上毕业就随意找一份工作，用三个月时间掌握这项技能，你越熟练、越有经验，自己的机会也会越多。</description></item><item><title>聊一聊我的公众号</title><link>https://juzhiyuan.me/posts/share-with-wechat-mp/</link><pubDate>Thu, 28 Feb 2019 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/share-with-wechat-mp/</guid><description>最近来了不少新朋友 🙂 借此机会，聊一聊我的公众号吧。
+建立自己的公众号，其出发点在于：我希望可以分享自己所看到的内容给大家，但不是以社交工具刷屏的形式。
+所以，当你查看「历史文章」后，会发现有文摘、笔记以及“任正非思想之路”。
+在这个公众号，我将：
+1、每周日整理、发布自己所看到的、值得分享的内容（文摘、笔记等）；
+2、记录自己外出游玩后所整理的游记；
+3、记录自己奇奇怪怪的想法；
+在过去两天，我连续分享了“任正非思想之路”的文章，因为在读了 1994 年任正非先生写的多篇文章后，感触颇深，无论是写作手法或其内涵，放到现在来看，至少于我是极有启发的。
+可是作为个人订阅号，如果我每天都分享其系列文章，对订阅者也是一种打扰吧。因此，其系列文章我依旧会每日整理（400 余篇），但是会在晚一些的时候放入「公众号菜单」或「我的收藏」内，感兴趣的读者可以点击公众号菜单获取该系列文章。
+今天在「清明上河园」游玩，本文在订阅号助手中完成。</description></item><item><title>由 QQ 头像引起的回忆</title><link>https://juzhiyuan.me/posts/story-with-qq/</link><pubDate>Sun, 10 Feb 2019 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/story-with-qq/</guid><description>本文于 2019 年 2 月 11 日发于「生财有术」知识星球，全文转载于本公众号，以作存档。
+今年是 QQ ”诞生“20 周年，星主 亦仁 发帖邀请大家分享与 QQ 头像相关的人和事。以下是我的分享：
+看到这些默认的 QQ 头像，想起来小学 4 年级的时候，向家里要了 100 块钱买“互联星空”充值卡帮别人刷钻 🤣
+在星球内分享并不多，借此机会唠一会儿吧。
+今年大四，热衷于 Web 方向，目前在全职做远程工作。我是 18 年年底加入社群的，当时确实纠结了一会儿：等 4 月份加入还是现在加入呢？想了下便随即加入了，如果自己能在社群内有一次启发，便是赚了的。
+初高中时期，自己热衷于 Web 渗透，成功渗透了 XXXX。
+15 年大一入校，很偶然的机会，有学长问我是否可以帮助学生处做一套新闻系统（现在看来这就是一套 CMS），说实话，当时是不懂开发的，但是想了一下便答应下来：总感觉这事儿能成。这算是第一次“外包”了：通过不断查询搜索引擎、系统学习了许多概念/逻辑，由于没有规范的开发流程，导致重构了 3 次。耗时将近两个月，学习到的点还有很多，不一一列举了。当时一心想着学技术（有一种荣誉感），没有报价，不过最后给了我 5000，是严格意义的第一桶金了。
+紧接着，在 16 年，自己承接下来了本市某区党建系统开发工作。有了给学校开发系统的经历，第二次外包便少踩了一些坑，规范了开发流程。该党建项目，结合企业微信，对外提供党建新闻咨询、对内辅助党内工作进行。最终获得 4 万元的报酬。
+很快三年过去了，Web 知识也从平地起，到现在有了较为清晰的体系结构。 估算了一下，大二一年，通过大大小小外包，获得了 10w+的报酬。
+大一刚开始学习 Web 技术时，没有想过要赚钱，只是想把技术学好、学扎实罢了；大二、大三那年，尽可能接触不同项目，通过正儿八经实践来提升自己技能。
+大四上学期，在德国做交换生，回国前一月，开始投递简历：先后拿到了扇贝单词、轻芒、网易的 offer。由于一直心心念念阿里（五面已经通过，在等最后一轮 HR 面），但最后一面迟迟没有来到，便先去了网易杭州。经过 45 天漫长面试流程，HR 最后建议我读研，婉拒了我。随后不久我便暂时离开了杭州，申请到了一份远程工作，回到了学校。
+目前在 Team247 团队做远程工作，在团队内部做全栈开发。压力是肯定有的，但也推着我不断学习新技能。今天在团队已经 5 个月了，接触到了一些不错的客户，比如 Visa 🙂
+我觉得自己是足够幸运的：通过搜索引擎以及一系列优质工具，我可以尽可能学习我喜欢的。</description></item><item><title>追逐早上七八点钟的太阳</title><link>https://juzhiyuan.me/posts/talk-with-freecodecamp/</link><pubDate>Sat, 23 Dec 2017 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/talk-with-freecodecamp/</guid><description>摄于泰山
+本文写于 2017 年 12 月 24 日，与科大讯飞合作和某校学生聊聊编程。
+各位同学晚上好，我是琚致远，在河南师范大学读大三。今晚由我代表 freeCodeCamp 中国 与各位分享一些这些年关于编程学习、我的所见所想。
+第一件事情是实战
+各位目前所接触过的编程语言应该是 C 语言吧？我也是，其实无论是 C 语言还是其它编程语言，它们在很多地方是相似的。所以专注于一门语言，其它语言都不是问题，因此大可不必跟风随大流、看见别人学习其它语言你也跟着学，这样会使得你精力分散，导致最终没有一门编程技能是你拿得出手的。你需要做的是：专注于某一门语言，鼓励了解其它语言的特点以及优劣。
+我十分推荐通过编程实战来驱动编程学习。我个人是非常幸运的，在大一上学期，一位学长问我能不能帮学生处蓝天网改版页面？我欣然答应了，但那个时候我并没有学习过如何制作网页、搞不清楚打开浏览器输入网址为什么能出现各种页面、为什么同一个网址展示的内容却不一样，但我还是答应做这个事情了，我总觉得：这事儿靠谱，应该能成。我知道不能只想着怎么做，而应该马上试着去做。通过搜索引擎，我了解到一个网站是如何搭建的、知道了制作网站需要用到什么语言，这足够了。
+当时我在学生会，我们有一个公共办公室，做学生处网站的日子里，我每天早上 8 点准时到办公室，晚上 11 点才回宿舍（那个时候不熄灯）。耗时一个半月，终于更换了旧网站。这期间，网站界面改了两次，第一版界面是我自己想的，我觉得效果很酷，但是学校不这么认为并且给了我一些其它高校网站作为参考。从这件事儿上我第一次认识到：一定要提前确定好需求与界面设计。
+为学生处改版，我不仅写了代码、做了设计、顺便又做了一次伪产品经理，所以专心做一件事儿，它真的不会很单调，因为有那么多坑等着你去踩、有那么多内容需要你去学习，对于这些挑战，我是非常乐于接受的。做完学生处网站后，我在其底部留下了自己的昵称与个人站网址，随后接到了多个大大小小的项目，这些例子不在一一赘述。
+实战极大提升了自己的技能，虽然岀现了非常多的问题，但是摆正好心态，一遍一遍搜索、排查，总能够解决的。而且通过实战解决的问题，你对它的理解并不是理论学习所能得到的。中国不缺写代码的，但缺的是有能力能够解决技术难题的人、能够提高团队效率的人。
+引用宁皓网创办人王皓所述：“我的建议是，用你现有的能掌握的任何资源与技术，去实践你的想法。任何语言，任何框架，任何系统都可以。如果暂时只有想法，还没有掌握的技术，这个阶段你要干的事就是去学习。想法 → 学习 → 实践，无限循环。你有了想法要创造点什么，或许是个网站与应用。千万别在纠结到底选择什么技术，更重要的事情是你要快速拿出产品，放到市场上去验证你的想法是否可行。然后你再回来纠结技术也不晚，任何时候都可以重写你的网站与应用。“
+第二件事情是人脉
+人脉有多种来源，我分享两个渠道：社群与会议。
+互联网圈子是异常活跃的，无数的社群组织在等待你的加入，我非常鼓励大家在确定自己的某个兴趣点后主动查找、加入相关社群。无论线上或者线下，形式不重要，重要的是你加入后应当积极融入进去，因为很少有人会主动邀请你。加入社群后，学习别人的想法、分享自己的见解并尝试与成员交流。
+freeCodeCamp 是我加入的第一个社群，加入后我会主动与成员聊天、结交朋友。起初我也觉得不好意思，一直在窥屏，认为彼此不熟悉不好开口，有一天突然想通了一件事儿：“既然大家都不认识，那就试着唠吧。如果对方回复，那就太好了！如果对方方便，就可以继续唠；如果不回复，那也没关系，反正大家原本就不认识，不理我我也不会感到尴尬。&amp;ldquo;有了第一次开口，就有了第二次、第三次，久而久之，这种行为就变得自然而然。
+互联网会议是异常多的，但我不能告诉你需要参加什么会议，因为我不知道你的兴趣点在哪里，我只能鼓励你和你的小伙伴积极查找、参加高质量的、感兴趣的会议。列举某几个会议~
+第一个是 2015 年暑假在北京富力万丽举办的乌云峰会(乌云白帽大会)
+第二个是 10 月份在杭州云栖小镇的阿里巴巴云栖大会
+第三个是 11 月份在成都由我们 freeCodeCamp 举办的 Web 前端交流大会
+最后一个是前不久在北京由极客邦举办的 ArchSummit 全球架构师峰会
+积极参加社群与会议，并不会给你带来一时的“利”，你需要做的是循序渐进地学到讲师们的思想、与讲师们交朋友。照片中的几位小伙伴之前从未参加过类似活动，这几次带着 TA 们参加活动既拓展了视野又促进了我们之间的友谊。不仅仅如此，通过这些活动使我有幸结识了诸多跨行业大咖。今天的世界已经没有人可以教给你什么了，但是你可以从别人那里学习很多东西。和 TA 们聊天，对方并不会有高人一等的感觉，而是很朴素、很平常。所以，作为刚入门的新人，摆正心态、提出问题、大大方方讨论就行了。但是需要注意，大咖们时间也是非常宝贵的，不要和大咖拐弯抹角，有事儿说事儿，这是对对方起码的尊重。</description></item></channel></rss>

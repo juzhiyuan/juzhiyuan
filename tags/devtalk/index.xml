@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DevTalk on Zhiyuan Ju's Blog</title><link>https://juzhiyuan.me/tags/devtalk/</link><description>Recent content in DevTalk on Zhiyuan Ju's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 09 Jan 2022 08:00:00 +0000</lastBuildDate><atom:link href="https://juzhiyuan.me/tags/devtalk/index.xml" rel="self" type="application/rss+xml"/><item><title>开源活动中的学生故事</title><link>https://juzhiyuan.me/posts/attendees-story-of-summer-2021/</link><pubDate>Sun, 09 Jan 2022 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/attendees-story-of-summer-2021/</guid><description>Apache APISIX 社区参与了 2020 年、2021 年的中科院南京软件所的开源之夏活动，从我个人视角分享 4 位学生的成长故事。</description></item><item><title>一名毕业生的 7 年开源之路</title><link>https://juzhiyuan.me/posts/kaiyuanshe-2021/</link><pubDate>Sat, 30 Oct 2021 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/kaiyuanshe-2021/</guid><description/></item><item><title>The practice of Apache APISIX in Low-Code Gateway</title><link>https://juzhiyuan.me/posts/the-practice-of-apache-apisix-in-low-code-gateway/</link><pubDate>Tue, 12 Oct 2021 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/the-practice-of-apache-apisix-in-low-code-gateway/</guid><description/></item><item><title>开源的魅力 - 以 Apache APISIX 为例</title><link>https://juzhiyuan.me/posts/the-appeal-of-opensource-2/</link><pubDate>Mon, 22 Mar 2021 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/the-appeal-of-opensource-2/</guid><description/></item><item><title>From Web Engineer to Apache APISIX PMC</title><link>https://juzhiyuan.me/posts/from-web-engineer-to-apache-apisix-pmc/</link><pubDate>Mon, 28 Sep 2020 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/from-web-engineer-to-apache-apisix-pmc/</guid><description>ApacheCon@Home 2020: https://www.bilibili.com/video/BV1oZ4y1V7Zi/
+Hello, I&amp;rsquo;m Zhiyuan Ju from API7.ai, and I&amp;rsquo;m a member of Apache APISIX PMC, a high-performance open-source gateway project. I&amp;rsquo;m a member of Apache APISIX PMC, a high-performance open-source gateway project. Tributary is an open-source infrastructure software startup, and this open-source software refers to Apache APISIX.
+In this session, I will share my story from being a web engineer to continue participating in open source projects and encourage more people to know and dare to participate in open source projects by describing what I have gained and felt from participating in open source projects.</description></item><item><title>从 Web 工程师到 Apache APISIX PMC</title><link>https://juzhiyuan.me/posts/from-web-engineer-to-apache-apisix-pmc.zh/</link><pubDate>Mon, 28 Sep 2020 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/from-web-engineer-to-apache-apisix-pmc.zh/</guid><description>ApacheCon@Home 2020 中文主题视频：https://www.bilibili.com/video/BV1oZ4y1V7Zi/
+各位好，我是琚致远，来自「支流科技」，是高性能开源网关项目 Apache APISIX PMC 成员。支流科技是一家开源基础软件创业公司，这里开源软件便是指 Apache APISIX。
+本次会议，我会与各位分享自己从一名 Web 工程师到持续参与开源项目的故事，通过叙述自己参与开源项目的收获与感想，以此鼓励更多人认识开源项目、敢于参与开源项目。
+在介绍参与开源项目感想之前，我想先分享自己学习 Web 的经历。
+2015 年高考结束后，由于对 Web 研发颇有兴趣，因此通过搜索引擎查询并学习与之相关的教程。过去 5 年，我的 Web 学习可分为三个阶段，首先是茫然、不知所措。我不知道为什么页面会被渲染？编写好的页面如何被别人看到？在入校后没多久，很幸运地接到了第一个项目：帮学校学生处开发一套内容管理系统。那时的我只会做一些基本页面罢了，如何动态渲染内容、如何制作自适应页面等新问题接踵而来，当时圈子太小、身边没人做这些事儿，我只能求助于搜索引擎！通过不断地查询、尝试，尽管踩坑无数，但最终完成了本项目，并且实践了所学内容，据说校内对该站点整体评价高。
+在尝到「项目驱动、亲手实践」带来的甜处后，我便开始寻找新的项目，幸运的是，第一个项目给我带来了一定的知名度，大二、大三两年便在做各种类型的项目、极大地拓宽了自己的技术栈。这是我学习 Web 的第二个阶段。
+第三个阶段是在大四，由于是自学 Web 技术，因此绕了许多弯路、对 Web 技术也没有成体系的学习，重复地做外包项目虽然可以带来暂时性的收入，但不利于个人技术成长。偶然的一次思考，让我意识到在开发过程中使用到的开源库代码质量高、协作流程规范，这正是我所需要学习的！因此毅然把大部分时间投入到学习开源项目代码、关注开源社区动态中。
+那么在这两年参与开源项目的过程中，自己收获了什么呢？
+首先是时间。参与开源项目是一件富有创造性与想象力的事情，它需要通过不断地思考、讨论后，才能做决定，因此这需要足够的时间。幸运的是，在我们支流科技，大家可以灵活地安排工作与生活。我选择在有灵感的时候高效工作，在需要休息或者其它事情时，可以没有负担地随时去做。
+其次，参与开源项目扩充了我的朋友圈。每天但凡坐在电脑前，一定会去刷蛮久的 GitHub，去查看有什么好玩的项目？自己所关注的项目有什么动态？对于感兴趣的项目，我会查看其作者相关信息（博客、Twitter、GitHub 活跃项目），不断发现优秀的独立贡献者！于是自己通过贡献代码或者其它方式，与作者不断互动着便熟悉了。
+此外，因为热爱开源，我会主动关注并活跃于开源社区。在大一那年了解到了一个非盈利性的、在线教授 Web 编程的平台 freeCodeCamp，帮助全世界人们免费学习编程为使命，自己也积极的成为其中一名贡献者、协助维护平台建设。因为 freeCodeCamp 在国内有多个城市社群，我通过参与线下活动也结实了许许多多志趣相同的小伙伴们！
+令我惊喜的是，随着自己的“朋友圈”逐渐扩大，以及在线下会议练出的不恐惧社交的性格，自己也以志愿者的身份加入到了「津津乐道播客」团队！大学时自己便是「津津乐道」的听众，它是由各领域大牛联手制作的高质量、中文播客，目前月活听友超过百万。在加入团队后，与多位早已耳闻的达人拉近了距离！
+另一件我所收获到的，便是技能。
+在参与开源项目的过程中，我会着重注意项目结构、代码规范，以及 Issue 或 PR 在聊什么、做什么、怎么做。以 Code Review 为例，我会关心这段逻辑在做什么？贡献者为什么要这么做？如果是我，我该怎么做？对于不清楚的地方，我将追加自己的评论，作者也会在某个时间回复自己的问题。有时自己想错了，通过作者的解答，使自己逻辑能力更加严谨；有时作者做法不妥，他便可能接受我的提案，并告诉你：Good catch！Thanks！！自己便是在这种你一句、我一句的讨论中，提升了专业技能。
+那么对于没有参与过开源项目但又感兴趣的小伙伴而言，该如何参与进来呢？
+通过贡献代码便是一种常见的、参与开源项目的方式。在自己研发过程中会用到许多开源项目库，不时会遇到实际效果与文档描述不一致的情况，若确定是 BUG，那除了通过等待别人修正之外，自己也可以尝试定位问题、解决问题并提交 PR。
+但参与开源项目又不止是贡献代码，以 Apache APISIX 为例。Apache APISIX 作为高性能开源网关项目，功能丰富，又由于不断新增的贡献者推动着项目快速迭代，这就造成了有时文档与代码不同步的情况，此时我们便可以尝试提交 Issue、确定问题，最后提交 PR 以修正问题，这便是一次开源项目贡献。除此之外，文档错别字、语句描述不通顺、多语言（国际化）需求等问题，各位都可以尝试参与进来，活跃的贡献者们将推动项目更好地发展。
+以上便是我本次的分享，通过叙述自己参与开源项目的经历与收获，希望能给还在观望开源项目的伙伴们带来启发，并鼓励更多人加入到开源项目中！
+接下来是 Q&amp;amp;A 环节，各位是否有想要提问的？</description></item><item><title>聊聊 EventEmitter</title><link>https://juzhiyuan.me/posts/event-emitter/</link><pubDate>Sat, 31 Aug 2019 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/event-emitter/</guid><description>场景 存在如下场景：当音频播放器分别处于加载资源、播放音频、播放结束等不同状态时，通过某种机制执行不同操作（如更新 UI 状态）。即通过监听某些对象，当其状态发生变化时，触发不同事件。
+上述场景可通过 EventEmitter 实现，该方法至少可对应两种模式：观察者模式与发布/订阅模式。我们先来了解这两种模式：
+观察者模式 观察者模式（Observer Pattern）定义了 1:n 关系，使 n 个观察者对象监听某个被观察者对象（主题对象），当被观察者对象状态发生变化时，它将主动通知所有观察者对象这个消息，不同的观察者对象将产生不同动作。
+这种行为型模式关注的是观察者与被观察者之间的通讯，发布/订阅模式由它衍生而来。
+代码实现 class Subject { constructor() { this.observers = []; } add(observer) { this.observers.push(observer); } notify(...args) { this.observers.forEach((observer) =&amp;gt; observer.update(...args)); } } class Observer { update(...args) { console.log(...args); } } 使用方式 // 创建 2 个观察者 observer1、observer2 const observer1 = new Observer(); const observer2 = new Observer(); // 创建 1 个目标 subject const subject = new Subject(); // 目标 subject 主动添加 2 个观察者，建立 subject 与 observer1、observer2 依赖关系 subject.</description></item><item><title>freeCodeCamp 访谈丨琚致远：优秀 Web 全栈工程师的成长之路</title><link>https://juzhiyuan.me/posts/freecodecamp-developer-talk.zh/</link><pubDate>Wed, 10 Jul 2019 16:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/freecodecamp-developer-talk.zh/</guid><description>原文：https://chinese.freecodecamp.org/news/fcc-devtalk-ju-zhi-yuan-growth-path-of-an-excellent-full-stack-web-developer/
+本期嘉宾致远，是一位 97 年的小朋友。叫他小朋友是因为他的年纪比我小好几岁，记得之前我们合影的时候他总是有点腼腆地抿着嘴哈哈~自我们 2017 年认识以来，这位小极客的独立、坚韧、认真的品质，始终对世界保持好奇与不断探索的态度，都给我留下深刻的印象，也启发我以开放包容的心态思考自己工作的价值。
+本文标题取自致远的自我介绍 “正在努力成为一名优秀的 Web 全栈工程师”——我知道，“全栈工程师” 绝不会只是一个定义他的人生的标签，而会是帮助他不断拓宽人生边界的能量之源。文章里聊到他小学时开始接触电脑，初中时自学编程的有趣经历，也聊到他大学时的项目经历，在阿里第五面时因学历不够被拒，而后尝试远程工作的体验……每一个问题，致远都回答得很认真，相信大家读起来也会感受到这名小青年对生活和工作的用心:)
+这个夏天，致远就要大学毕业了。当被问到对于未来的期待时，他说 “希望自己可以踏踏实实、继续做自己喜欢的事情，在此前提下，能够鼓励、帮助身边人自我实现”。很感恩我们拥有致远这样的年轻的朋友们，他们在化思考为行动，为我们的社区注入活力，让这个世界变得更好。我们也很希望刚刚结束高考正在憧憬大学生活的孩子们能够读到这篇文章，相信对于他们 “如何度过大学时光” 也会有一定的启发意义吧。
+淡泊明志，宁静致远，愿致远们始终年轻。
+1、简要介绍一下自己吧。Hi 大家好，我是琚致远，即将本科毕业。我喜欢交朋友，热衷于 Web 技术，正在努力成为一名优秀的 Web 全栈工程师。
+2、可以讲讲你的童年生活吗？我的童年和绝大多数人的童年没有什么不同，有家长的严格管教，有自己的不安与顽皮，有探知的好奇心和探索的破坏力。唯一不同的，或许是我对一件事的好奇与坚持比别人久了那么一点。
+对每一个孩子来说，家庭的影响力都是排在首位的，我也不例外。在别人眼中我也算是出身于书香门第，这对童年的我来说还是有一定的压力的，毕竟我的成绩不能惨淡。但幸运的是家人也开明地在我的爱好和思想上给予了更多的自由。我的母亲是小学教师，教书育人，不仅教课，也弹的一手好琴，写的一手好字。小时候，母亲在弹琴和阅读上对我也是下了大功夫的，可惜我志不在此，也就荒废了，现在看来，当时的自己太年轻。
+孩子的爱好总是广泛的，在家人的影响下我喜欢打乒乓球、陪爷爷杀两局象棋。也和同龄人一样喜欢周杰伦和林俊杰的音乐，打小喜欢看 Disney 等工作室出品的动画以及诸如「Harry Potter」、「The Lord Of The Rings」等奇幻系列电影。小男孩嘛，总是沉迷于拆卸各种电子产品，从遥控车到电脑电视，拆着拆着就多了螺丝，哈哈，破坏力也是很强了。关于电脑，家里书柜中各种电脑书籍就是我的启蒙教材了，撺掇着撺掇着就发现更有意思了，深陷其中。
+我的童年影响并造就了我为人处世的方法以及平时思考的问题，它是磕磕绊绊的成长过程中的生成物，无论好坏，无关成败，都密切关系着我的未来。
+摄于家里菜地
+3、你是什么时候开始学习编程的？在这个过程中遇到什么困难，是怎么解决的？对于初学编程的小伙伴你有什么建议呢？因为家人工作单位会用到电脑，我便打小接触到了计算机基本操作相关的图书，这算是我的启蒙读物了。
+在小学三年级我拥有了自己的第一台电脑，是叔叔在中关村组装的。当时用电脑纯粹用于娱乐：看《大长今》、玩《魔兽争霸》以及各种 Flash 小游戏。
+在玩儿 Flash 小游戏时，就想到自己可否也做一个呢？后来，我在县城书店找到一本厚厚的《Flash 制作从入门到精通》，但是妈妈觉得没用便拒绝给我买，为此我一路生闷气，回到家也不说话，最后妈妈还是迫于无奈又带着我买了一本。随后的很长一段时间里，我便在电脑上按照教程、一步一步跟着做，并不时地鼓捣出一些小玩意儿。
+初中自己比较“活跃”、到处乱窜，有天突然看到校长在办公室手动搜索并整理几十份各个班级的 Excel 表，我便想：能否做一个程序帮助他提高办公效率？于是在初二升初三那年暑假，自己用了接近两个月时间系统地学习了 Visual Basic 编程语言，并使用它开发了一套学生信息管理系统。打开该系统并登陆后，即可进行学生查询、学生编辑、报表生成与打印等功能。
+在 08 年暑假，我的 QQ 号码被盗取了，我就想自己是否可以盗回来？然后便迷上了所谓的「黑客」技术。从最开始下载各种木马工具到后来开始翻看、学习某些工具源码，再到后来使用社会工程学手段「恶搞」我的同桌：在过年时和他打赌能盗取他的 QQ 号，他不信，2 个小时后便把他账户的密保、安全手机全部解绑。
+年少轻狂的我也曾渗透过中学教务处，改了考试成绩，还特别开心的和妈妈说：我能进尖子班了！妈妈听完后便训了我一顿。自此我知道凭技术手段改成绩是不对的，便逐渐向白帽子靠拢。
+学习 Web 安全的历程中，最大的一次渗透经历是中学时曾渗透过某省教育厅，并可以访问到大量敏感数据，但我没有脱库、而是找到管理员并发送了一封描述具体漏洞问题的邮件。
+进入大学后，我想到如果自己清楚 Web 系统是如何构建的，那定将有助于我学习 Web 渗透技术。于是我通过搜索引擎查询大量资料并自己在本地模拟示例，用了将近两周的时间才初步了解传统 Web 系统是如何搭建并运作的。紧接着，我及其幸运的为学校、政府以及部分大小企业定制了一系列 Web 系统。</description></item><item><title>The growth path of a full-stack engineer</title><link>https://juzhiyuan.me/posts/freecodecamp-developer-talk/</link><pubDate>Wed, 10 Jul 2019 16:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/freecodecamp-developer-talk/</guid><description>Original: https://chinese.freecodecamp.org/news/fcc-devtalk-ju-zhi-yuan-growth-path-of-an-excellent-full-stack-web-developer/
+This time, our guest, Zhiyuan, is a 97-year-old kid. Since we met in 2017, I&amp;rsquo;ve been impressed by this little geek&amp;rsquo;s independence, tenacity, seriousness, and attitude of always being curious and exploring the world, which also inspires me to think about the value of my work with an open and inclusive mind.
+The title of this article is taken from Zhiyuan&amp;rsquo;s self-introduction, &amp;ldquo;Working hard to become a good Web full-stack engineer&amp;rdquo; - I know that &amp;ldquo;full-stack engineer&amp;rdquo; will never be just a label that defines his I know that &amp;ldquo;full-stack engineer&amp;rdquo; is not just a label that defines his life, but a source of energy that will help him to keep widening the boundaries of his life.</description></item><item><title>追逐早上七八点钟的太阳</title><link>https://juzhiyuan.me/posts/talk-with-freecodecamp/</link><pubDate>Sat, 23 Dec 2017 08:00:00 +0000</pubDate><guid>https://juzhiyuan.me/posts/talk-with-freecodecamp/</guid><description>摄于泰山
+本文写于 2017 年 12 月 24 日，与科大讯飞合作和某校学生聊聊编程。
+各位同学晚上好，我是琚致远，在河南师范大学读大三。今晚由我代表 freeCodeCamp 中国 与各位分享一些这些年关于编程学习、我的所见所想。
+第一件事情是实战
+各位目前所接触过的编程语言应该是 C 语言吧？我也是，其实无论是 C 语言还是其它编程语言，它们在很多地方是相似的。所以专注于一门语言，其它语言都不是问题，因此大可不必跟风随大流、看见别人学习其它语言你也跟着学，这样会使得你精力分散，导致最终没有一门编程技能是你拿得出手的。你需要做的是：专注于某一门语言，鼓励了解其它语言的特点以及优劣。
+我十分推荐通过编程实战来驱动编程学习。我个人是非常幸运的，在大一上学期，一位学长问我能不能帮学生处蓝天网改版页面？我欣然答应了，但那个时候我并没有学习过如何制作网页、搞不清楚打开浏览器输入网址为什么能出现各种页面、为什么同一个网址展示的内容却不一样，但我还是答应做这个事情了，我总觉得：这事儿靠谱，应该能成。我知道不能只想着怎么做，而应该马上试着去做。通过搜索引擎，我了解到一个网站是如何搭建的、知道了制作网站需要用到什么语言，这足够了。
+当时我在学生会，我们有一个公共办公室，做学生处网站的日子里，我每天早上 8 点准时到办公室，晚上 11 点才回宿舍（那个时候不熄灯）。耗时一个半月，终于更换了旧网站。这期间，网站界面改了两次，第一版界面是我自己想的，我觉得效果很酷，但是学校不这么认为并且给了我一些其它高校网站作为参考。从这件事儿上我第一次认识到：一定要提前确定好需求与界面设计。
+为学生处改版，我不仅写了代码、做了设计、顺便又做了一次伪产品经理，所以专心做一件事儿，它真的不会很单调，因为有那么多坑等着你去踩、有那么多内容需要你去学习，对于这些挑战，我是非常乐于接受的。做完学生处网站后，我在其底部留下了自己的昵称与个人站网址，随后接到了多个大大小小的项目，这些例子不在一一赘述。
+实战极大提升了自己的技能，虽然岀现了非常多的问题，但是摆正好心态，一遍一遍搜索、排查，总能够解决的。而且通过实战解决的问题，你对它的理解并不是理论学习所能得到的。中国不缺写代码的，但缺的是有能力能够解决技术难题的人、能够提高团队效率的人。
+引用宁皓网创办人王皓所述：“我的建议是，用你现有的能掌握的任何资源与技术，去实践你的想法。任何语言，任何框架，任何系统都可以。如果暂时只有想法，还没有掌握的技术，这个阶段你要干的事就是去学习。想法 → 学习 → 实践，无限循环。你有了想法要创造点什么，或许是个网站与应用。千万别在纠结到底选择什么技术，更重要的事情是你要快速拿出产品，放到市场上去验证你的想法是否可行。然后你再回来纠结技术也不晚，任何时候都可以重写你的网站与应用。“
+第二件事情是人脉
+人脉有多种来源，我分享两个渠道：社群与会议。
+互联网圈子是异常活跃的，无数的社群组织在等待你的加入，我非常鼓励大家在确定自己的某个兴趣点后主动查找、加入相关社群。无论线上或者线下，形式不重要，重要的是你加入后应当积极融入进去，因为很少有人会主动邀请你。加入社群后，学习别人的想法、分享自己的见解并尝试与成员交流。
+freeCodeCamp 是我加入的第一个社群，加入后我会主动与成员聊天、结交朋友。起初我也觉得不好意思，一直在窥屏，认为彼此不熟悉不好开口，有一天突然想通了一件事儿：“既然大家都不认识，那就试着唠吧。如果对方回复，那就太好了！如果对方方便，就可以继续唠；如果不回复，那也没关系，反正大家原本就不认识，不理我我也不会感到尴尬。&amp;ldquo;有了第一次开口，就有了第二次、第三次，久而久之，这种行为就变得自然而然。
+互联网会议是异常多的，但我不能告诉你需要参加什么会议，因为我不知道你的兴趣点在哪里，我只能鼓励你和你的小伙伴积极查找、参加高质量的、感兴趣的会议。列举某几个会议~
+第一个是 2015 年暑假在北京富力万丽举办的乌云峰会(乌云白帽大会)
+第二个是 10 月份在杭州云栖小镇的阿里巴巴云栖大会
+第三个是 11 月份在成都由我们 freeCodeCamp 举办的 Web 前端交流大会
+最后一个是前不久在北京由极客邦举办的 ArchSummit 全球架构师峰会
+积极参加社群与会议，并不会给你带来一时的“利”，你需要做的是循序渐进地学到讲师们的思想、与讲师们交朋友。照片中的几位小伙伴之前从未参加过类似活动，这几次带着 TA 们参加活动既拓展了视野又促进了我们之间的友谊。不仅仅如此，通过这些活动使我有幸结识了诸多跨行业大咖。今天的世界已经没有人可以教给你什么了，但是你可以从别人那里学习很多东西。和 TA 们聊天，对方并不会有高人一等的感觉，而是很朴素、很平常。所以，作为刚入门的新人，摆正心态、提出问题、大大方方讨论就行了。但是需要注意，大咖们时间也是非常宝贵的，不要和大咖拐弯抹角，有事儿说事儿，这是对对方起码的尊重。</description></item></channel></rss>
