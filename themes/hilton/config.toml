@@ -20,35 +20,23 @@ paginate = 6
     weight = 1
 
   [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
-    weight = 2
-
-  [[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/posts/"
-    weight = 3
+    weight = 2
     hasChildren = true
 
-      [[menu.main]]
-      parent = "Pages"
-      name = "About"
-      url = "/about/"
-      weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
 
-      [[menu.main]]
-      parent = "Pages"
-      name = "Contact"
-      url = "/contact/"
-      weight = 2
-
-      [[menu.main]]
-      parent = "Pages"
-      name = "Elements"
-      url = "/elements/"
-      weight = 3
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
 
       # Footer Menu
       [[menu.footer]]
@@ -58,34 +46,22 @@ paginate = 6
       weight = 1
 
       [[menu.footer]]
-      identifier = "projects"
-      name = "Projects"
-      url = "/projects/"
-      weight = 2
-
-      [[menu.footer]]
       identifier = "blog"
       name = "Blog"
       url = "/posts/"
-      weight = 3
+      weight = 2
 
       [[menu.footer]]
       identifier = "about"
       name = "About"
       url = "/about/"
-      weight = 4
+      weight = 3
 
       [[menu.footer]]
       identifier = "contact"
       name = "Contact"
       url = "/contact/"
-      weight = 5
-
-      [[menu.footer]]
-      identifier = "elements"
-      name = "Elements"
-      url = "/elements/"
-      weight = 6
+      weight = 4
 
 
   #-------------------------------
@@ -124,16 +100,16 @@ paginate = 6
   # Hero Settings
   [params.hero]
     enable = true
-    hero__title = "I'm Monica. I will create design that can give you value"
-    hero__description = "So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail."
-    hero__image = "https://via.placeholder.com/1200x800"
+    hero__title = "I'm Zhiyuan Ju, Member of TheASF."
+    hero__description = "I love open source community 💗 I started maintaining Apache APISIX Community in 2019 and am a member of The Apache Software Foundation. I am also one of the core members of freeCodeCamp China."
+    hero__image = "/images/Zhiyuan_Ju_Avatar.jpeg"
 
 
   #-------------------------------
   # Newsletter Settings
   [params.mailchimp]
-    enable = true
-    mailchimp__identifier = "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+    enable = false
+    mailchimp__identifier = "" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
     mailchimp__input__text = "Your email address..."
     mailchimp__button__text = "Get updates" # Add your button text
 
@@ -141,7 +117,7 @@ paginate = 6
   #-------------------------------
   # Projects Settings
   [params.projects]
-    enable = true
+    enable = false
     projects__title= "Latest works"
     projects__description= "I shows only the best websites and portfolios built completely with passion, simplicity & creativity!"
 
@@ -149,7 +125,7 @@ paginate = 6
   #-------------------------------
   # Testimonials Section
   [params.testimonials]
-    enable = true
+    enable = false
     testimonial__title = "What clients say"
     testimonial__description = ""
 
@@ -203,26 +179,26 @@ paginate = 6
     enable = true
 
   [[params.gallery_image]]
-    image_alt = "Rest"
-    image_url = "https://via.placeholder.com/800x800"
+    image_alt = "Dali"
+    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
 
   [[params.gallery_image]]
-    image_alt = "Lifestyle"
-    image_url = "https://via.placeholder.com/800x800"
+    image_alt = "Wedding"
+    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1687.JPG"
 
   [[params.gallery_image]]
-    image_alt = "Hobby"
-    image_url = "https://via.placeholder.com/800x800"
+    image_alt = "Chengdu"
+    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1696.JPG"
 
   [[params.gallery_image]]
-    image_alt = "Notes"
-    image_url = "https://via.placeholder.com/800x800"
+    image_alt = "Guangzhou"
+    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1694.JPG"
 
 
   #-------------------------------
   # Contact Settings
   [params.contact]
-    contact__email = "your@email.com" # Add your form_id
+    contact__email = "moqbgpda" # Add your form_id
 
     # NOTE
     # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -232,7 +208,7 @@ paginate = 6
   # Comment Section (Disqus)
   [params.disqus]
     enable = true
-    disqusShortname = "anvodstudio-demo" # Add your shortname for Disqus Comment. For example anvodstudio-demo
+    disqusShortname = "zhiyuan-jus-blog" # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 [markup]

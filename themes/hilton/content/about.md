@@ -1,30 +1,31 @@
 ---
 title: About
-image: 'https://via.placeholder.com/1200x800'
+image: 'https://static.juzhiyuan.me/images/2022/12/09/IMG_1704.JPG'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Member of the ASF · Apache APISIX PMC · freeCodeCamp 🔆 
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+Hi, I’m [Zhiyuan Ju](https://github.com/juzhiyuan), an OSS lover, and full-stack web engineer.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://via.placeholder.com/1200x800" target="_blank">Unsplash</a></em>
-</div>
+I’ve been maintaining [Apache APISIX](https://apisix.apache.org/) with Apache Community members since July 2019, and it’s a Cloud-Native API Management based on LuaJIT and OpenResty. I’m also glad to share my stories so that more people will benefit from me if possible.
 
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+BTW, you can get in touch with me by sending mail to [jjzhiyuan@gmail.com](mailto:jjzhiyuan@gmail.com) or book my time by [Calendar](https://meetings.hubspot.com/zhiyuan) 🙂
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+## Timeline
 
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
+- Jan 01, 2022 – Head of Global at [API7.ai](https://api7.ai/)
+- Mar 01, 2022 – Elected as Apache Member
+- May 01, 2020 – Join [API7.ai](https://api7.ai/) (No 1)
+- July 01, 2019 – Contribute to [Apache APISIX](https://apisix.apache.org/) and maintain community with love
+- June 07, 2019 – Graduate from University and fly to Shenzhen to work
+- Aug 01, 2018 – Join Netease ([163.com](http://www.163.com)) as an Intern
+- Mar 01, 2018 – First time to Europe (Frankfurt am Main)
+- Oct 01, 2015 – Meet my beloved
+- Sep 01, 2015 – First year of university
+- 2008 – See the Olympic torchbearers pass downstairs in Beijing
+- 2003 – My first PC
+- July 06, 1997 – Born in China 🇨🇳
 
-![Sea](https://via.placeholder.com/1200x800)
-*Photo by [Alyssa Strohmann](https://via.placeholder.com/1200x800) on [Unsplash](https://via.placeholder.com/1200x800)*
+## Thanks
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+My family, my friends, people I meet.
