@@ -91,35 +91,25 @@ paginate = 6
   #-------------------------------
   # Author Settings
   [params.author]
-    author__name = "Monica Hilton"
-    author__bio = "So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail."
-    author__avatar = "https://via.placeholder.com/500x500"
+    author__name = "Zhiyuan Ju"
+    author__bio = "Member of TheASF, Apache APISIX PMC Member, freeCodeCamp"
+    author__avatar = "/images/avatar.jpeg"
 
   # Social Links
   [[params.social]]
     icon = "ion-logo-twitter"
     name = "Twitter"
-    link = "https://twitter.com"
+    link = "https://twitter.com/jjzhiyuan"
 
   [[params.social]]
-    icon = "ion-logo-facebook"
-    name = "Facebook"
-    link = "https://facebook.com"
-
-  [[params.social]]
-    icon = "ion-logo-instagram"
-    name = "Instagram"
-    link = "https://instagram.com"
-
-  [[params.social]]
-    icon = "ion-logo-pinterest"
-    name = "Pinterest"
-    link = "https://pinterest.com"
+    icon = "ion-logo-linkedin"
+    name = "Linkedin"
+    link = "https://www.linkedin.com/in/jjzhiyuan/"
 
   [[params.social]]
     icon = "ion-logo-github"
-    name = "Github"
-    link = "https://github.com"
+    name = "GitHub"
+    link = "https://github.com/juzhiyuan"
 
   # Example of adding a new link to the footer:
   # [[params.social]]
