@@ -70,10 +70,16 @@ paginate = 6
       weight = 4
 
       [[menu.footer]]
+      identifier = "public-sharing"
+      name = "Public Sharing"
+      url = "/public-sharing/"
+      weight = 5
+
+      [[menu.footer]]
       identifier = "about"
       name = "About"
       url = "/about/"
-      weight = 5
+      weight = 6
 
 
   #-------------------------------
