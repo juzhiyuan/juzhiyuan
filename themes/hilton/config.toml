@@ -194,24 +194,11 @@ paginate = 6
   #-------------------------------
   # Gallery Footer Settings
   [params.gallery]
-    enable = true
+    enable = false
 
   [[params.gallery_image]]
     image_alt = "Dali"
     image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG?format=webp&width=396&heigh=297"
-
-  [[params.gallery_image]]
-    image_alt = "Wedding"
-    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1687.JPG?format=webp&width=396&heigh=297"
-
-  [[params.gallery_image]]
-    image_alt = "Chengdu"
-    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1696.JPG?format=webp&width=396&heigh=297"
-
-  [[params.gallery_image]]
-    image_alt = "Guangzhou"
-    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1694.JPG?format=webp&width=396&heigh=297"
-
 
   #-------------------------------
   # Contact Settings
