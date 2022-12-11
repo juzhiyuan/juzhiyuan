@@ -2,12 +2,12 @@
 tags: ["Essay", "Apache APISIX"]
 date: 2022-04-11T08:00:00Z
 title: "我与 Apache 软件基金会的故事"
-image: "https://static.juzhiyuan.me/2022/12/11/9e65195e6a8fb137c2cd1a123c2aaaca.png"
+image: "https://static.juzhiyuan.me/2022/12/11/724ac6ef22526dea917ea58cbae6c40c.png"
 ---
 
 2015 年我在读大一，在部署 Web 项目时用到了 Apache Web Server，Apache 软件的羽毛标志只需看一眼就能牢牢记住。
 
-![image](https://user-images.githubusercontent.com/2106987/162697929-97be170e-f68f-4a16-8599-9407fc4802cc.png)
+![image](https://static.juzhiyuan.me/2022/12/11/724ac6ef22526dea917ea58cbae6c40c.png)
 
 Apache 软件基金会成立于 1999 年（我出生于 1997 年），作为全球最大的开源软件基金会，我从未想过会现在与它有更深入地联系。
 
