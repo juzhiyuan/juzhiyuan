@@ -2,7 +2,7 @@
 tags: ["Essay"]
 date: 2019-05-23T08:00:00Z
 title: "2011 年的一封邮件"
-image: "https://static.juzhiyuan.me/2022/12/11/bc36536195e3aa14a6aca0747c5c7b2d.png"
+image: "https://static.juzhiyuan.me/2022/12/11/bc36536195e3aa14a6aca0747c5c7b2d.png?format=webp"
 ---
 
 ![摄于 白石の深夜食堂](https://static.juzhiyuan.me/2022/12/11/bc36536195e3aa14a6aca0747c5c7b2d.png)

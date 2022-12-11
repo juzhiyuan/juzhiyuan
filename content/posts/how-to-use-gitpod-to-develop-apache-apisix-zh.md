@@ -2,7 +2,7 @@
 title: 如何使用 Gitpod 搭建 Apache APISIX 开发环境？
 date: 2022-05-19T00:00:00+08:00
 tags: ["Apache APISIX"]
-image: "https://static.juzhiyuan.me/2022/12/11/85bd0e25722ce090a95f85465a5bba05.png"
+image: "https://static.juzhiyuan.me/2022/12/11/85bd0e25722ce090a95f85465a5bba05.png?format=webp"
 ---
 
 ## 背景

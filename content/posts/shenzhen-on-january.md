@@ -2,7 +2,7 @@
 tags: ["Essay"]
 date: 2019-08-26T08:00:00Z
 title: "深圳一月有余"
-image: "https://static.juzhiyuan.me/2022/12/11/0af51d7933e1d94307979f42542874a5.png"
+image: "https://static.juzhiyuan.me/2022/12/11/0af51d7933e1d94307979f42542874a5.png?format=webp"
 ---
 
 ![](https://static.juzhiyuan.me/2022/12/11/0af51d7933e1d94307979f42542874a5.png)

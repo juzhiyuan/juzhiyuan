@@ -2,7 +2,7 @@
 tags: ["Essay"]
 date: 2019-02-28T08:00:00Z
 title: "聊一聊我的公众号"
-image: "https://static.juzhiyuan.me/2022/12/11/ab43e48191ed7e19c3dca5be2aba008e.png"
+image: "https://static.juzhiyuan.me/2022/12/11/ab43e48191ed7e19c3dca5be2aba008e.png?format=webp"
 ---
 
 最近来了不少新朋友 🙂 借此机会，聊一聊我的公众号吧。

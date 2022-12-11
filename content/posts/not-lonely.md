@@ -2,7 +2,7 @@
 tags: ["Essay"]
 date: 2020-11-03T08:00:00Z
 title: "不再孤独"
-image: "https://static.juzhiyuan.me/2022/12/11/e6fe0aa286cf507b1c61b1f7f1f182c9.png"
+image: "https://static.juzhiyuan.me/2022/12/11/e6fe0aa286cf507b1c61b1f7f1f182c9.png?format=webp"
 ---
 
 孤独，是这 3 个月来，我听到次数最多的一个词。

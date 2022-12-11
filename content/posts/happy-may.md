@@ -2,7 +2,7 @@
 tags: ["Essay"]
 date: 2019-04-30T08:00:00Z
 title: "三件开心的事儿"
-image: "https://static.juzhiyuan.me/2022/12/11/da58a7c7dd59af70bccf09e899f0b687.png"
+image: "https://static.juzhiyuan.me/2022/12/11/da58a7c7dd59af70bccf09e899f0b687.png?format=webp"
 ---
 
 记录三件开心的事。

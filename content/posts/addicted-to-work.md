@@ -2,7 +2,7 @@
 title: Addicted to Work
 tags: ["Essay"]
 date: 2022-10-12T22:40:00+00:00
-image: "https://static.juzhiyuan.me/2022/12/11/77d68e23a9a4a1951b37b08a6f8cb870.png"
+image: "https://static.juzhiyuan.me/2022/12/11/77d68e23a9a4a1951b37b08a6f8cb870.png?format=webp"
 ---
 It’s hard to leave rest work until tomorrow for me, such case has been several years since 2015 🙂
 

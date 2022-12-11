@@ -1,7 +1,7 @@
 ---
 date: 2021-07-26T08:00:00Z
 title: "插件编排在 Apache APISIX 中的应用与实践"
-image: "https://static.juzhiyuan.me/2022/12/11/5cc145622ff013127505500f1569dae0.png"
+image: "https://static.juzhiyuan.me/2022/12/11/5cc145622ff013127505500f1569dae0.png?format=webp"
 tags: ["Apache APISIX"]
 ---
 

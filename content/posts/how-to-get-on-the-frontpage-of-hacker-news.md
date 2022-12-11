@@ -2,7 +2,7 @@
 title: How To Get On The Frontpage of Hacker News
 date: 2022-11-30T16:09:14+00:00
 tags: ["Essay"]
-image: "https://static.juzhiyuan.me/2022/12/11/0782054dd8d5fea5ffa3ca09bd076c82.png"
+image: "https://static.juzhiyuan.me/2022/12/11/0782054dd8d5fea5ffa3ca09bd076c82.png?format=webp"
 ---
 
 1. Write Something Worth Reading: You need to write something interesting. If you don't, trying to get on the frontpage will be a waste of your time. Even if you manipulate and get upvotes, hacker news readers will rip you apart and you'll wish you never got there.

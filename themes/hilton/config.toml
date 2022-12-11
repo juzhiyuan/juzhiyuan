@@ -87,7 +87,7 @@ paginate = 6
   [params.author]
     author__name = "Zhiyuan Ju"
     author__bio = "Member of TheASF, Apache APISIX PMC Member, freeCodeCamp"
-    author__avatar = "https://static.juzhiyuan.me/avatar.jpeg"
+    author__avatar = "https://static.juzhiyuan.me/avatar.jpeg?format=webp"
 
   # Social Links
   [[params.social]]
@@ -120,7 +120,7 @@ paginate = 6
     enable = true
     hero__title = "I'm Zhiyuan Ju, Member of TheASF."
     hero__description = "I love open source community 💗 I started maintaining Apache APISIX Community in 2019 and am a member of The Apache Software Foundation. I am also one of the core members of freeCodeCamp China."
-    hero__image = "https://static.juzhiyuan.me/Zhiyuan_Ju_Avatar.jpeg"
+    hero__image = "https://static.juzhiyuan.me/Zhiyuan_Ju_Avatar.jpeg?format=webp"
 
 
   #-------------------------------
@@ -198,19 +198,19 @@ paginate = 6
 
   [[params.gallery_image]]
     image_alt = "Dali"
-    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG?format=webp"
 
   [[params.gallery_image]]
     image_alt = "Wedding"
-    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1687.JPG"
+    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1687.JPG?format=webp"
 
   [[params.gallery_image]]
     image_alt = "Chengdu"
-    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1696.JPG"
+    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1696.JPG?format=webp"
 
   [[params.gallery_image]]
     image_alt = "Guangzhou"
-    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1694.JPG"
+    image_url = "https://static.juzhiyuan.me/images/2022/12/09/IMG_1694.JPG?format=webp"
 
 
   #-------------------------------

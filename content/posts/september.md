@@ -2,7 +2,7 @@
 tags: ["Essay"]
 date: 2019-09-16T08:00:00Z
 title: "九月"
-image: "https://static.juzhiyuan.me/2022/12/11/b43b79faa6c973890aa0e150d9f31f3e.png"
+image: "https://static.juzhiyuan.me/2022/12/11/b43b79faa6c973890aa0e150d9f31f3e.png?format=webp"
 ---
 
 

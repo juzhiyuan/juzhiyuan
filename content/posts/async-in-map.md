@@ -2,7 +2,7 @@
 date: 2019-08-31T08:00:00Z
 tags: ["Web"]
 title: "在 Map 遍历中使用 async 函数"
-image: "https://static.juzhiyuan.me/2022/12/11/b2af5f5ff0f045ec37aa48fd88564d9b.png"
+image: "https://static.juzhiyuan.me/2022/12/11/b2af5f5ff0f045ec37aa48fd88564d9b.png?format=webp"
 ---
 
 

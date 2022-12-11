@@ -2,7 +2,7 @@
 tags: ["Essay"]
 date: 2022-12-11T14:59:00+08:00
 title: "Harry Potter, Twilight"
-image: "https://static.juzhiyuan.me/2022/12/11/8ec526b6382784a4d6e3fcdf908b6b59.png"
+image: "https://static.juzhiyuan.me/2022/12/11/8ec526b6382784a4d6e3fcdf908b6b59.png?format=webp"
 ---
 
 I never thought Junjun would like to watch foreign movies 🎬. In my impression, they are all palace dramas such as Empresses in the Palace and New Life Begins.

@@ -2,7 +2,7 @@
 tags: ["Essay"]
 date: 2019-02-10T08:00:00Z
 title: "由 QQ 头像引起的回忆"
-image: "https://static.juzhiyuan.me/2022/12/11/df6f76e75d9b84da76eed73494e38cb1.png"
+image: "https://static.juzhiyuan.me/2022/12/11/df6f76e75d9b84da76eed73494e38cb1.png?format=webp"
 ---
 
 > 本文于 2019 年 2 月 11 日发于「生财有术」知识星球，全文转载于本公众号，以作存档。

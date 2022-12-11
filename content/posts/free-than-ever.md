@@ -2,7 +2,7 @@
 tags: ["Essay"]
 date: 2019-05-16T08:00:00Z
 title: "纠结许久的事情终于放下了"
-image: "https://static.juzhiyuan.me/2022/12/11/bac0f0d591dab19e6c49e2c2647ba26a.png"
+image: "https://static.juzhiyuan.me/2022/12/11/bac0f0d591dab19e6c49e2c2647ba26a.png?format=webp"
 ---
 
 ![摄于老家菜地](https://user-images.githubusercontent.com/2106987/155452671-ac58397c-7c8c-41a5-9e70-ab01581646fd.png)

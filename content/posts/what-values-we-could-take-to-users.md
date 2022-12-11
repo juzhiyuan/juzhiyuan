@@ -1,7 +1,7 @@
 ---
 title: What values we could take to users?
 date: 2022-11-30T16:11:35+00:00
-image: "https://static.juzhiyuan.me/2022/12/11/aaadd660cdebaa9f6838eed8f18eb9ea.png"
+image: "https://static.juzhiyuan.me/2022/12/11/aaadd660cdebaa9f6838eed8f18eb9ea.png?format=webp"
 tags: ["Essay"]
 ---
 Nearly every customer asks me: what values it compares to xxx? 

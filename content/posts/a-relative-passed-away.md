@@ -2,7 +2,7 @@
 title: 舅爷
 tags: ["Essay"]
 date: 2022-11-30T16:01:39+00:00
-image: "https://static.juzhiyuan.me/2022/12/11/d1a760a8862dcbb714f5fda44c6a5cda.png"
+image: "https://static.juzhiyuan.me/2022/12/11/d1a760a8862dcbb714f5fda44c6a5cda.png?format=webp"
 ---
 舅爷是奶奶的哥哥，我从小到大听到很多次的就是：给“我”哥带点。家里菜摘得多了、家里买平常不会买的较为稀罕的东西时，奶奶会骑车或让家人开车送过去一些。
 

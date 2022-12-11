@@ -2,7 +2,7 @@
 tags: ["DevTalk"]
 date: 2017-12-23T08:00:00Z
 title: "追逐早上七八点钟的太阳"
-image: "https://static.juzhiyuan.me/2022/12/11/e3da9caada4e3e9f206b8b9b1228c6fd.png"
+image: "https://static.juzhiyuan.me/2022/12/11/e3da9caada4e3e9f206b8b9b1228c6fd.png?format=webp"
 ---
 
 {{< figure src="https://pic2.zhimg.com/80/v2-6cac31cf93917030e7a42da2db64ae41_1440w.jpg" caption="摄于泰山" >}}

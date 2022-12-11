@@ -2,7 +2,7 @@
 tags: ["DevTalk"]
 date: 2019-07-10T16:00:00Z
 title: "freeCodeCamp: The growth path of a full-stack engineer"
-image: "https://static.juzhiyuan.me/2022/12/11/19abf172482cd9abfa894faf8b5ea060.png"
+image: "https://static.juzhiyuan.me/2022/12/11/19abf172482cd9abfa894faf8b5ea060.png?format=webp"
 ---
 
 Original: [https://chinese.freecodecamp.org/news/fcc-devtalk-ju-zhi-yuan-growth-path-of-an-excellent-full-stack-web-developer/](https://chinese.freecodecamp.org/news/fcc-devtalk-ju-zhi-yuan-growth-path-of-an-excellent-full-stack-web-developer/)
