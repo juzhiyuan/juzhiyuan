@@ -1,7 +1,6 @@
 #-------------------------------
 # General Site Settings
 googleAnalytics = "G-4Q7TCN21H3" # Add your identifier. For example UA-99631805-1.
-paginate = 6
 
 
 [params]

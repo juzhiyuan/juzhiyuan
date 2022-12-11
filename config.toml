@@ -4,3 +4,4 @@ theme = 'hilton'
 title = "Zhiyuan Ju's Blog"
 baseURL = 'https://juzhiyuan.me/'
 languageCode = 'en-us'
+paginate = 6
