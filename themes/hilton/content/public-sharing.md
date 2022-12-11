@@ -1,6 +1,6 @@
 ---
 title: Public Sharing
-image: 'https://static.juzhiyuan.me/images/2022/12/09/IMG_1704.JPG'
+image: 'https://static.juzhiyuan.me/images/2022/12/09/IMG_1704.JPG?format=webp'
 ---
 
 - Sep 29, 2022 – [Apache APISIX 3.0 Preview](https://gamma.app/docs/Apache-APISIX-30-Preview-ayvvxf5nx25j6r2?token=33s7wme1x6jczjc)
