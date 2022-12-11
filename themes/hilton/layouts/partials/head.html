@@ -4,8 +4,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | relURL }}">
 
-  <title>{{ if not .IsHome }}{{ humanize .Title }} | {{ end }}{{ .Site.Title }}</title>
+  {{if eq .Section "posts"}}
+  <!-- 对于 Post 相关页面，自动从正文提取 Description -->
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+  {{else}}
   <meta name="description" content="{{if .IsHome}}{{ .Site.Params.description }}{{else}}{{ .Description }}{{end}}">
+  {{end}}
+  <title>{{ if not .IsHome }}{{ humanize .Title }} | {{ end }}{{ .Site.Title }}</title>
 
   {{ with .OutputFormats.Get "rss" -}}
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
