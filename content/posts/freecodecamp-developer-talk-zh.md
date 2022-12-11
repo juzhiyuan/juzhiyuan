@@ -2,7 +2,7 @@
 tags: ["DevTalk"]
 date: 2019-07-10T16:00:00Z
 title: "freeCodeCamp 访谈丨琚致远：优秀 Web 全栈工程师的成长之路"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/19abf172482cd9abfa894faf8b5ea060.png"
 ---
 
 原文：[https://chinese.freecodecamp.org/news/fcc-devtalk-ju-zhi-yuan-growth-path-of-an-excellent-full-stack-web-developer/](https://chinese.freecodecamp.org/news/fcc-devtalk-ju-zhi-yuan-growth-path-of-an-excellent-full-stack-web-developer/)

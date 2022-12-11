@@ -2,7 +2,7 @@
 tags: ["DevTalk"]
 date: 2019-08-31T08:00:00Z
 title: "聊聊 EventEmitter"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/e3e3f7f2ebfba956dc7c85a9a18db4eb.png"
 ---
 
 ## 场景

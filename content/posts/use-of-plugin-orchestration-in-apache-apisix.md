@@ -1,7 +1,8 @@
 ---
 date: 2021-07-26T08:00:00Z
 title: "Applying Plugin Orchestration in Apache APISIX"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/5cc145622ff013127505500f1569dae0.png"
+tags: ["Apache APISIX"]
 ---
 
 Original：[https://apisix.apache.org/blog/2021/07/27/use-of-plugin-orchestration-in-apache-apisix/](https://apisix.apache.org/blog/2021/07/27/use-of-plugin-orchestration-in-apache-apisix/)

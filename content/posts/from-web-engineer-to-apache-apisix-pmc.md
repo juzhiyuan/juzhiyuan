@@ -2,7 +2,7 @@
 tags: ["DevTalk"]
 date: 2020-09-28T08:00:00Z
 title: "From Web Engineer to Apache APISIX PMC"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/c45e16af8d1118ae69efbdc038d75147.png"
 ---
 
 ApacheCon@Home 2020: [https://www.bilibili.com/video/BV1oZ4y1V7Zi/](https://www.bilibili.com/video/BV1oZ4y1V7Zi/)

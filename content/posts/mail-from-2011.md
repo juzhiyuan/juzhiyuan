@@ -1,11 +1,11 @@
 ---
-tags: ["Story"]
+tags: ["Essay"]
 date: 2019-05-23T08:00:00Z
 title: "2011 年的一封邮件"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/bc36536195e3aa14a6aca0747c5c7b2d.png"
 ---
 
-![摄于 白石の深夜食堂](https://user-images.githubusercontent.com/2106987/155452552-9a9d31c5-67ce-4a71-b057-4c2c03e8af51.png)
+![摄于 白石の深夜食堂](https://static.juzhiyuan.me/2022/12/11/bc36536195e3aa14a6aca0747c5c7b2d.png)
 
 昨日凌晨在整理 freeCodeCamp 的 FCC DevTalk 访谈稿，在被问到第一次学习编程是什么时候这个问题时，我突然想到 2011 年 8 月发送的一封邮件。
 

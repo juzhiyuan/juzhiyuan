@@ -1,8 +1,8 @@
 ---
-tags: ["Story"]
+tags: ["Essay"]
 date: 2019-05-09T08:00:00Z
 title: "我在项目开发中产生的感受与想法"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/3c59546c8d7273da2aea87a8045b6f17.png"
 ---
 
 大三上学期之前，自己偶尔会接一些 Web 项目来做。最初前后端开发由自己完成，一方面是学习新技术，另一方面自己可以取得更多利润。

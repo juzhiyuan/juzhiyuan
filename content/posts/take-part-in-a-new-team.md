@@ -1,8 +1,8 @@
 ---
-tags: ["Story"]
+tags: ["Essay"]
 date: 2020-06-06T08:00:00Z
 title: "记在新团队首次协作开发后"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/1d5a8291946f7919a9ac42caffb7a132.png"
 ---
 
 5 月份加入了新的团队，全力为开源网关 [APISIX](https://github.com/apache/incubator-apisix) 开发新的 [Dashboard](https://github.com/apache/incubator-apisix-dashboard/tree/next)。「路由」模块属于 API 网关核心功能，它包含了：路由列表、创建路由、更新路由、删除路由四个部分，如何让该模块易用、表现准确成为整个 5 月份首要解决的问题。

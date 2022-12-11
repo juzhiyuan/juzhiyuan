@@ -1,8 +1,8 @@
 ---
-tags: ["Story"]
+tags: ["Essay", "Apache APISIX"]
 date: 2022-04-11T08:00:00Z
 title: "我与 Apache 软件基金会的故事"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/9e65195e6a8fb137c2cd1a123c2aaaca.png"
 ---
 
 2015 年我在读大一，在部署 Web 项目时用到了 Apache Web Server，Apache 软件的羽毛标志只需看一眼就能牢牢记住。

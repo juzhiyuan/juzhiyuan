@@ -1,8 +1,8 @@
 ---
 tags: ["DevTalk"]
 date: 2019-07-10T16:00:00Z
-title: "The growth path of a full-stack engineer"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+title: "freeCodeCamp: The growth path of a full-stack engineer"
+image: "https://static.juzhiyuan.me/2022/12/11/19abf172482cd9abfa894faf8b5ea060.png"
 ---
 
 Original: [https://chinese.freecodecamp.org/news/fcc-devtalk-ju-zhi-yuan-growth-path-of-an-excellent-full-stack-web-developer/](https://chinese.freecodecamp.org/news/fcc-devtalk-ju-zhi-yuan-growth-path-of-an-excellent-full-stack-web-developer/)
@@ -107,9 +107,9 @@ When a friend sent me the text in the screenshot below, my heart was extremely h
 
 After a period of time, they burned out because the short time did not see the return. It's not that TAs don't work hard, but most people want to produce benefits in the short term: like getting high-return outsourcing or getting a job. But technology learning which is so easy, the early need to endure the loneliness, dead carry over.
 
-{{< figure src="https://chinese.freecodecamp.org/forum/uploads/default/optimized/1X/cdaba76522241595f7c775bd37d3b3381a223513_2_690x500.jpeg" >}}
+![](https://static.juzhiyuan.me/2022/12/11/86b37c5861957c5c10023f44ab5425c2.png)
 
-{{< figure src="https://chinese.freecodecamp.org/forum/uploads/default/optimized/1X/59f9916ae25d822ac6efe683d21f19a03c107d4f_2_273x500.jpeg" >}}
+![](https://static.juzhiyuan.me/2022/12/11/4c2c69ed145899c7c2ecc5a38045a24e.png)
 
 So, when learning a skill, for example, Web technology, my advice is to first determine whether you really want to do Web direction; then ask friends with relevant experience, what skills are needed to learn; and finally use a certain amount of time to plan the learning cycle, sustained, phased learning.
 
@@ -123,7 +123,7 @@ Three months to learn Web technology, some diligence, is possible to reach a cer
 
 But to my delight, I transferred my remote job to a friend upon my return last year, and he was able to fill the position through absolute hard work. From initially having zero experience, he is now able to develop web front-end projects on his own and get a decent salary every month, killing two birds with one stone.
 
-7. Talk about your study and living experience as an exchange student in Germany in 2018. What do you think is the most interesting part of this experience? Last year I went to Frankfurt, Germany as an exchange student. It's true that studying abroad is freer, and it doesn't matter whether you take classes or not, as long as you pass the final exam. However, it also requires a very strong self-drive because German teachers don't remind you what to do or how to do it, you have to worry about it yourself, or you will most likely not pass the exams.
+1. Talk about your study and living experience as an exchange student in Germany in 2018. What do you think is the most interesting part of this experience? Last year I went to Frankfurt, Germany as an exchange student. It's true that studying abroad is freer, and it doesn't matter whether you take classes or not, as long as you pass the final exam. However, it also requires a very strong self-drive because German teachers don't remind you what to do or how to do it, you have to worry about it yourself, or you will most likely not pass the exams.
 
 Most of the foreign students I met were very rigorous and serious, which is beyond my reach for the time being.
 
@@ -131,17 +131,17 @@ It was logical that I made new friends here, TA's from different countries, and 
 
 Living in Germany, since I live only 2 minutes walk from the river Main, I run or walk along the river every morning or evening, but I still gained a lot of weight _(:з」∠)_ probably because there is a lot of good but very high-calorie food here.
 
-{{< figure src="https://chinese.freecodecamp.org/forum/uploads/default/original/1X/96cefbb5f0244d67fcdc01901cea101a8cc9b05d.jpeg" >}}
+![](https://static.juzhiyuan.me/2022/12/11/3ab3969cc4259bb799793b7b4356b685.png)
 
 Here, I would go out with friends occasionally, such as Amsterdam, Hamburg, Germany, Prague, Czech Republic, and so on.
 
 One of the more exciting things was skydiving with friends in Prague. When the jet took to the sky, to be honest, I was really scared, but I soon settled down: there are only two extreme results ~ after the plane reached the skydiving height, we moved to the hatch one by one and jumped like dumplings (I suspect I was blown down by the wind).
 
-{{< figure src="https://chinese.freecodecamp.org/forum/uploads/default/optimized/1X/fa6f75e0e68de215b77f7a54c99fb1606e978e1d_2_690x460.jpeg" >}}
+![](https://static.juzhiyuan.me/2022/12/11/239a5bac2a719dcafa1fae336e7fa369.png)
 
 Soon after I got used to the high-speed descent, I could see the horizon as far as the eye could see. I was so small on the ground, but now I was looking at them from a "God's perspective." This skydive has greatly broadened my perspective on issues in the future.
 
-8. You're graduating from college this summer, and you've got some great offers. Why did you choose to work remotely for Team247? Tell us about your experience working remotely. About a month and a half before I returned home, I started preparing for the fall recruiting and selectively submitted my resume to some companies or teams. Naturally, Ali was the company I expected to work for, which was a belief.
+1. You're graduating from college this summer, and you've got some great offers. Why did you choose to work remotely for Team247? Tell us about your experience working remotely. About a month and a half before I returned home, I started preparing for the fall recruiting and selectively submitted my resume to some companies or teams. Naturally, Ali was the company I expected to work for, which was a belief.
 
 In nearly a month of various interviews, I got offers from Fanbei Word, Lightman, NetEase, and other companies, but at this time, Ali's interview was still not finished, so I chose NetEase. After nearly 40 days of the interview process in Ali, I was rejected by HR in the 5th face for not having enough education because the application department is relatively new and there are enough candidates with graduate education or above. After Ali lost, I do have some losses, but it doesn't matter anymore.
 

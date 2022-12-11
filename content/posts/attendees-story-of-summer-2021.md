@@ -1,8 +1,8 @@
 ---
-tags: ["DevTalk"]
+tags: ["DevTalk", "Community"]
 date: 2022-01-09T08:00:00Z
 title: "开源活动中的学生故事"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/e139f9905117186c8ecc22cb9ef537c5.png"
 ---
 
 Apache APISIX 社区参与了 2020 年、2021 年的中科院南京软件所的开源之夏活动，从我个人视角分享 4 位学生的成长故事。

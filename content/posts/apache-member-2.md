@@ -1,8 +1,8 @@
 ---
-tags: ["Story"]
+tags: ["Apache APISIX", "Podcast", "Community"]
 date: 2022-04-15T08:00:00Z
 title: "新晋 95 后 Apache Member - 琚致远"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/c19d61e6eb0e4c1e4a6270e4c13d680c.png"
 ---
 
 在线收听播客 [No 21. 新晋 95 后 Apache Member - 琚致远](https://www.ximalaya.com/sound/521873994)

@@ -1,8 +1,8 @@
 ---
-tags: ["Story"]
+tags: ["Apache APISIX", "Community"]
 date: 2022-03-24T08:00:00Z
 title: "琚致远：95 后 Apache Member 的成长之路"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/6cc7044dca1e937009297fa3aa416bb9.png"
 ---
 
 > 原文首发在「ALC Beijing」微信公众号中，由 饶雅惠 通过采访并引导 致远 分享完成本文。

@@ -1,7 +1,8 @@
 ---
 title: Use Keycloak with API Gateway to secure APIs
 date: 2022-07-06T22:15:00+00:00
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/2f427a517e3b90d310c758498505f94d.png"
+tags: ["Apache APISIX"]
 ---
  
 

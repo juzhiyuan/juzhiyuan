@@ -1,7 +1,8 @@
 ---
 title: "专访琚[jū]致远：聊聊兴趣与成就感如何驱动他参与开源社区"
 date: 2022-01-18T00:00:00+08:00
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+tags: ["Community"]
+image: "https://static.juzhiyuan.me/2022/12/11/06b120c13991850199b8631663d38696.png"
 ---
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" src="https://embed.podcasts.apple.com/us/podcast/s01e05-%E4%B8%93%E8%AE%BF%E7%90%9A-j%C5%AB-%E8%87%B4%E8%BF%9C-%E8%81%8A%E8%81%8A%E5%85%B4%E8%B6%A3%E4%B8%8E%E6%88%90%E5%B0%B1%E6%84%9F%E5%A6%82%E4%BD%95%E9%A9%B1%E5%8A%A8%E4%BB%96%E5%8F%82%E4%B8%8E%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA/id1587487089?i=1000548097766&theme=light"></iframe>

@@ -1,8 +1,8 @@
 ---
-tags: ["Story"]
+tags: ["Essay"]
 date: 2019-04-29T08:00:00Z
 title: "我学习一项技能的方法"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/9f9f87a6609b1f65ff934d2080a0bcca.png"
 ---
 
 身边的朋友们一个个都要毕业了，近期有朋友问我：马上毕业、可是考研失利，想找一份 Web 方向的工作，但是大学四年都没有好好学，这该怎么办？

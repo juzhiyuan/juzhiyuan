@@ -1,7 +1,7 @@
 ---
 date: 2021-12-29T08:00:00Z
 title: "Apache APISIX 动态能力原理"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/b78f0bac5451cbffecf6ee2c1ad53dd1.png"
 tags: ["Apache APISIX"]
 ---
 

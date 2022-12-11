@@ -1,7 +1,8 @@
 ---
 date: 2021-06-18T08:00:00Z
 title: "赞助开源项目"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+tags: ["Essay"]
+image: "https://static.juzhiyuan.me/2022/12/11/c30c7b27d6393ef9c14349b4c3541ebe.png"
 ---
 
 或许有一天，自己的开源项目可以解决一些人的问题，甚至受益者能够 Sponsor me，这会是一件很幸福的事情。

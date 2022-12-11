@@ -1,7 +1,8 @@
 ---
 title: How to use Gitpod to develop Apache APISIX?
+tags: ["Apache APISIX"]
 date: 2022-05-19T00:00:00+08:00
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/85bd0e25722ce090a95f85465a5bba05.png"
 ---
 
 ## Background

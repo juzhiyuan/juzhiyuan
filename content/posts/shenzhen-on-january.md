@@ -1,11 +1,11 @@
 ---
-tags: ["Story"]
+tags: ["Essay"]
 date: 2019-08-26T08:00:00Z
 title: "深圳一月有余"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/0af51d7933e1d94307979f42542874a5.png"
 ---
 
-{{< figure src="https://blog-juzhiyuan.vercel.app/images/20190727001.png" >}}
+![](https://static.juzhiyuan.me/2022/12/11/0af51d7933e1d94307979f42542874a5.png)
 
 在深圳生活与工作已一月有余，在此期间学到了四件事：
 

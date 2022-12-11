@@ -1,7 +1,8 @@
 ---
 title: Go or Stay
+tags: ["Essay"]
 date: 2022-11-11T22:28:00+00:00
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/0cd981ab83a36fb86fd70d9322457f90.png"
 ---
 Today I was asked again to prepare go abroad (out of China) next year. Maybe most of early members and founders will come to different countries as well. It’s super cool to go abroad freely, but I’m not alone now, I have the new family.
 

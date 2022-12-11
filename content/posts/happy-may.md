@@ -1,8 +1,8 @@
 ---
-tags: ["Story"]
+tags: ["Essay"]
 date: 2019-04-30T08:00:00Z
 title: "三件开心的事儿"
-image: "https://static.juzhiyuan.me/images/2022/12/09/IMG_1688.JPG"
+image: "https://static.juzhiyuan.me/2022/12/11/da58a7c7dd59af70bccf09e899f0b687.png"
 ---
 
 记录三件开心的事。
