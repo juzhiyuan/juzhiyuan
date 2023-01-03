@@ -1,6 +1,6 @@
 ---
 tags: ["Essay"]
-date: 2023-01-03T08:30:00+08:00
+date: 2023-01-02T08:30:00+08:00
 title: "Zhenfang Han"
 image: "https://static.juzhiyuan.me/2023/01/03/b3d43b99d551fbd61edabcd4ae121e5c.jpg?format=webp"
 description: Best wishes to Zhenfang!
@@ -8,7 +8,7 @@ description: Best wishes to Zhenfang!
 
 [Zhenfang Han](https://juejin.cn/user/3065861918435437/posts) and I both came to Wuhan in May 2022, he came because of work, and I came because of my girlfriend. 
 
-During the New Year's Day holiday, we met to free talk, and he chose [Chaoshan beef hot pot](https://zh.wikipedia.org/zh-tw/%E6%BD%AE%E6%B1%95%E7%89%9B%E8%82%89%E7%81%AB%E9%94%85) every time, and was obsessed with [salsa](https://zh.m.wikipedia.org/zh-hans/%E6%B2%99%E8%8C%B6%E9%85%B1).
+During the New Year's Day holiday, we met to free talk today, and he chose [Chaoshan beef hot pot](https://zh.wikipedia.org/zh-tw/%E6%BD%AE%E6%B1%95%E7%89%9B%E8%82%89%E7%81%AB%E9%94%85) every time, and was obsessed with [salsa](https://zh.m.wikipedia.org/zh-hans/%E6%B2%99%E8%8C%B6%E9%85%B1).
 
 On New Year's Day, he sent me a WeChat message that roughly meant **thanks for the guidance in thought**, which I read with some relief, and instead of talking about specific techniques every time I chatted with him, I would share my past experiences with him just for reference.
 
