@@ -213,15 +213,3 @@ googleAnalytics = "G-4Q7TCN21H3" # Add your identifier. For example UA-99631805-
   [params.disqus]
     enable = true
     disqusShortname = "zhiyuan-jus-blog" # Add your shortname for Disqus Comment. For example anvodstudio-demo
-
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
-
-[markup.highlight]
-  codeFences = true
-  guessSyntax = true
-  noClasses = false

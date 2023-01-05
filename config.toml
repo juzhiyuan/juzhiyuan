@@ -5,3 +5,14 @@ title = "Zhiyuan Ju"
 baseURL = 'https://juzhiyuan.me/'
 languageCode = 'en-us'
 paginate = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false
