@@ -1,8 +1,8 @@
 # 配置文件请修改：/themes/hilton/config.toml
 
 theme = 'hilton'
-title = "Zhiyuan Ju"
-baseURL = 'https://juzhiyuan.me/'
+title = "琚致远"
+baseURL = 'https://blog.juzhiyuan.me/'
 languageCode = 'en-us'
 paginate = 6
 
