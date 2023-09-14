@@ -1,6 +1,6 @@
 ---
 tags: ["Essay"]
-date: 2023-09-14T08:00:00Z
+date: 2023-09-14T12:00:00+08:00
 title: "我对开源商业化的理解"
 image: "https://static.juzhiyuan.me/2023/09/photo-1597843736335-4e805d85465d.jpeg"
 ---
