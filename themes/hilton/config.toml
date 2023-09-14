@@ -14,34 +14,40 @@ googleAnalytics = "G-4Q7TCN21H3" # Add your identifier. For example UA-99631805-
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Home"
+    name = "首页"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "blog"
-    name = "Blog"
+    name = "博客"
     url = "/posts/"
     weight = 2
     hasChildren = true
-
+  
   [[menu.main]]
     identifier = "contact"
-    name = "Contact"
+    name = "联系我"
     url = "/contact/"
     weight = 3
 
   [[menu.main]]
     identifier = "resume"
-    name = "Resume"
+    name = "简历"
     url = "/resume/"
     weight = 4
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "关于"
     url = "/about/"
     weight = 5
+
+  [[menu.main]]
+    identifier = "newsletter"
+    name = "英文博客"
+    url = "https://juzhiyuan.me/"
+    weight = 3
 
       # Footer Menu
       [[menu.footer]]
